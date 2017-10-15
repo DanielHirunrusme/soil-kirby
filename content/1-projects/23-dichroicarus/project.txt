@@ -1,0 +1,177 @@
+Group-start-0: 
+
+----
+
+Title: Dichroicarus
+
+----
+
+Date: 2014-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: A flying cube, made up of many shimmering layers of dichroic film. Very straightforward and very mysterious at the same time. As the wind moves the volume erratically through the sky one never can completely discern what one is looking at.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 102339005
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  video: "102339005"
+  video_sound: "0"
+  video_caption: ""
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  image: 1_140404_129.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_140404_121.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_140404_009.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_IMG_5467.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: “Wallpaper* Handmade 2014” exhibition
+
+----
+
+Location: Milan, Italy
+
+----
+
+Program: 
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: Completed 2014
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Pietro Pagliaro, Gilbert Berthold, Kendall Latham
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Dichroicarus.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: blueprint, pollination, zenith-nadir, meissen

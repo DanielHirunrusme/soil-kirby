@@ -1,0 +1,193 @@
+Group-start-0: 
+
+----
+
+Title: Hinge House
+
+----
+
+Date: 2016-07-29
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# Hinge is a holiday house on the western side of Antiparos Island in Greece, at the top of a steep mountain overlooking the Aegean Sea. The house has been conceived as a loose gathering of volumes hinged into the intense topography of the landscape. The surrounding landscape of rocky mountains slips through the built volumes to the heart of the house, offering a direct relationship with the land.
+
+The organization of the design consists of a series of interconnected interior and exterior spaces offering diverse experiences and views. The careful arrangement of the volumes offers strong open spaces for the communal life of the house as well as a series of intimate places for isolation, privacy and immersion in the landscape. The positioning of the main exterior spaces of the house takes into consideration the prevailing northwestern winds. Large shading surfaces cool the exterior living areas and the placement of outdoor courtyards offers cross-ventilation for the passive cooling of the interiors.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_2_web.jpg
+  image_caption: aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_1_web.jpg
+  image_caption: aerial view towards coast
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_6_web.jpg
+  image_caption: view towards house
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    4_7-with-texture-less-black-specs_web.jpg
+  image_caption: view towards coast
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_20170328_SITEPLAN-01-01.png
+  image_caption: site plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_GROUNDFLOOR-PLAN_edit-3-01.png
+  image_caption: first floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_BEDROOMS-AND-BOH_edit-3-01.png
+  image_caption: second floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Oliaros Properties
+
+----
+
+Location: Antiparos, Greece
+
+----
+
+Program: Private home
+
+----
+
+Area-meters: 600
+
+----
+
+Area-feet: 6,460
+
+----
+
+Status: Schematic Design
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Alvaro Gomez-Selles Fernandez, Caroline Sillesen, Iason Houssein
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: Antiparos1.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: chermayeff-house, veiled, jan-shrem-and-maria-manetti-shrem-museum-of-art, kukje-galleryk3

@@ -1,0 +1,215 @@
+Group-start-0: 
+
+----
+
+Title: Solid Objectives: Order, Edge, Aura
+
+----
+
+Date: 2017-05-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# A visual and textual manifesto, SO – IL’s first book solid objectives: order, edge, aura introduces an attitude towards the design and realization of architecture in an interconnected environment.
+
+Conceived by Florian Idenburg, Jing Liu and Ilias Papageorgiou the book presents a collection of built and unbuilt projects, texts, processes and experiments of the first eight years of work of the New York based architecture firm SO – IL (2008-2016).
+
+This book is not a road map. It is a sequence of small and large spatial events, a series of filmic frames arranged as a continuum through past experiments. Each page is the precursor for the next, moving through loosely defined conceptual themes, this trajectory is sequenced with moments of reflection – reveries on issues large and small as well as moments of concentration that draw the attention to a single project. As a totality the book proposes an architecture that requires interpretation.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 0-cover.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 1_05-interior_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_02-interior_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_03-interior_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_06-interior_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_07-interior_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_09-interior_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_04-interior_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_08-interior_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 9_x-back_web.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: 
+
+----
+
+Location: 
+
+----
+
+Program: 
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: Published May 2017
+
+----
+
+Team: 
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+Publisher: Lars Müller Publishers
+Graphic Design: Geoff Han
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: bad-thoughts, future-archeology

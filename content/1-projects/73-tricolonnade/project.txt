@@ -1,0 +1,202 @@
+Group-start-0: 
+
+----
+
+Title: Tricolonnade
+
+----
+
+Date: 2011-06-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# Curator Terence Riley of the 2011 Shenzen Hong Kong Biennial recreates Paolo Portoghesi’s “STRADA NOVISSIMA” from the 1980 Venice Biennial, in which he asked 20 architects (including Frank Gehry, Rem Koolhaas and Aldo Rossi) to design a “façade” along a central “Strada” of the exhibition hall, questioning the ideology of the façade that is at once individual and collective—both the building and the city.
+
+As the historic 1980 exhibition has come to represent a moment of architecture’s fixation on the symbolic façade, 2011 marks an anxiety that architecture itself has collapsed into nothing more than skin.
+
+Our proposal, through a kind of reinvented colonnade, seeks to spatialize and instrumentalize what has become implicitly flat. The ‘façade’ unfolds, becomes itself the space of occupation and exhibition. Its prismatic materiality — ’marble’ on each column’s front face, and mirror on its two back faces — creates an unstable space always changing in relation to its viewers.
+
+When approaching the façade, the marble surface seemingly expands into infinite depth. Crossing the threshold, the image of the marble is refracted and fills the space as visitors wander through. Multiplied and reflected, flatness is scrutinized and made spatial, and becomes charged with public engagement.
+
+"Tricolonnade or La Strada Sobria," Domus, December 21, 2011.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_Shenzhen-Biennale-0168.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_Shenzhen-Biennale-0126.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_Shenzhen-Biennale-0162.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_Shenzhen-Biennale-0140.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_SZHK_plan.jpg
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_Construction-details+-1.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_typical-column-detail.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Shenzhen Hong Kong Bi-City Biennale
+
+----
+
+Location: Shenzhen, China
+
+----
+
+Program: Installation
+
+----
+
+Area-meters: 25
+
+----
+
+Area-feet: 270
+
+----
+
+Status: Completed 2011
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ted Baab, Iannis Kandyliaris
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+- 
+  misc_title: Image Credits
+  misc_text: 'Photography: Iwan Baan'
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Tricolonnade.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: spiky, flockr-get-it-louder, costa-house, blueprint, meissen

@@ -1,0 +1,17 @@
+body {
+	@include univers;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, select, input, label, textarea, span, time {
+	@include univers;
+	letter-spacing: initial !important;
+	word-spacing:initial;
+}
+
+span, time, a {
+	word-spacing:initial;
+}
+
+img, svg {
+  width:20%;
+} 

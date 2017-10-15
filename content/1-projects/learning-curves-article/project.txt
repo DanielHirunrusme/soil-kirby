@@ -1,0 +1,99 @@
+Title: Learning Curves
+
+----
+
+Date: 2016-08-01
+
+----
+
+Text: 
+
+Our discipline’s understandable rejection of the behaviorist determinism of modernist design dogmas might have come at an unanticipated high price. The resulting not-so-newly found freedoms—after all, it’s been decades since the rejections of the Modulor, or Pattern Language—have not been reciprocated in allied fields like campus planning and the like. We architects have been left behind in broader cultural conversations that coopt and resituate empiricist terms to correlate buildings and audiences, inhabitants and users. For as we architects have freed ourselves from any faith in determinism, an entire industry has emerged to assert a kind of parametrics of correlation between objects and subjects, frameworks and performances. Sadly it is not difficult to imagine this kind of jargon: “if we lower the windows, ma’am, your son’s SAT results will dramatically improve!” Even more woefully, we architects have no constructive swerve away from such fallacies.
+
+In retrospect the rejectionist impulse is in fact a strategic gaffe that has erased our clout. We barely register a whisper in the cacophony of TED talks and Wired articles about smart cities; smart buildings; and evidence-based design. Should we not bring to the onslaught of cottage-industry speak of “measurable data” architecturally intelligent worldviews? We think architects are the best equipped to marshal the discussions and conjure possibilities, fresh alternatives to stale correlations of space, body, and imagination. Perhaps our conviction confirms the Churchillian intuition that buildings actually do shape us, and let’s admit to it—don’t we all secretly subscribe to this possibility?
+
+A building boom is taking place on campuses around the world. Education is big business, and a resulting academic edifice complex drives the costs up for those it seduces, while driving troves of skeptics toward an online education. The transitions from print to digital, as well as the emergence of open-source models, has revolutionized the production and distribution of information. Academic institutions lose their monopolies on knowledge creation while MOOCs, podcasts, and start-up universities replace the “sage on stage.” Video games, social media, VR: learning is turning into an interactive and collaborative process, erasing boundaries between reflection, work, and play. Notions of authorship, accuracy, and credibility are challenged as wikis and peer-to-peer platforms transform prescribed curricula into “open works.” The textbook is a perpetual draft, constantly refined and revised.
+
+And while the new tools maximize exchange and connectivity, learning is becoming more and more an individualized activity as giant volumes of information effortlessly flow through our phones, tablets, and wearable devices. What is most profoundly changing is the purpose of learning itself. The intricate nature of today’s questions transcends the confined boundaries of disciplinary education. The attention is shifting from the acquisition of knowledge to its purposeful deployment. Questions such as sustainability, global migration, and other multifaceted issues demand a skillful intertwining of intellectual and emotional qualities with scientific rigor. “The expert” is dwindling. Solutions are found by following convoluted paths and the implementation of murky ad hocism. In this sphere, the question what do you want to be? is replaced by what type of problems do you want to solve at this moment?
+
+This complex new reality produces a novel approach to knowledge production and organization. Issues are broken down in complementary parts that are developed by interconnected teams of people with diverse expertise. This condition requires proactive learners who are able to imagine connections and invent associations. Naturally, this affects the space in which learning takes place. Hitherto, these were conceived as places for one-way information transfer, organized around highly specific room designs, often following curriculum-specific requirements. Today’s increased complexity and entropy requires different spaces, organized around collaboration, colearning, and synthesis. Insulated disciplinary typologies can be replaced by loose frameworks, compartmentalizing to parts while remaining linked to a whole. The osmosis of previously disparate parts offers new insights and serendipitous encounters among disciplines, industries, and theories.
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Builder: 
+
+----
+
+Client: 
+
+----
+
+Location: 
+
+----
+
+Program: 
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: 
+
+----
+
+Team: 
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Project-pdf: 
+
+----
+
+Related: 

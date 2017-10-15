@@ -1,0 +1,12 @@
+title: About page
+
+pages: false
+
+icon: user
+
+preview: parent
+
+fields:
+  title:
+    label: Name
+    type: title

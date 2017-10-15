@@ -1,0 +1,178 @@
+Group-start-0: 
+
+----
+
+Title: Future Archeology
+
+----
+
+Date: 2009-08-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# “Future Archaeology” is the title of an exhibition of SO — IL ’s work at the LA Forum for Architecture and Urban Design on Hollywood Boulevard in Los Angeles, California. The show features the studio’s recent projects displayed in various ways, in collaboration with a number of artists, including Iwan Baan, Corinne van der Borch, Sean Capote and Paula Hayes. The exhibition positions these projects in the larger context of their times.
+
+Society’s systematic relocation to the virtual realm has greatly affected a traditional sense of social space. While architecture shaped the social realm in a pre-network culture, it now carries the risk of becoming a friction-less, temporary carrier of the virtual. This shift delaminates “value” from the physical world, allowing it to flow and mutate freely, leaving behind millions of acres of boarded up homes, dead malls, rejected icons, shrinking towns and piles of expired “value-carriers.” In these fraught conditions, we search for an architecture that can re-invigorate our sensibilities and offer constructive resistance that appropriates latent frictions rather than merely representing a new modernity in slick forms.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_Exhibition-So-Il-LA-2680.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_Exhibition-So-Il-LA-2687.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_Exhibition-So-Il-LA-2692.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_Exhibition-So-Il-LA-2673.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Los Angeles Forum for Art and Architecture
+
+----
+
+Location: Los Angeles, USA
+
+----
+
+Program: SO-IL exhibition
+
+----
+
+Area-meters: 50
+
+----
+
+Area-feet: 540
+
+----
+
+Status: Completed 2009
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Iannis Kandyliaris, Cheong Kan Park, Chris Cornecelli
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+- 
+  misc_title: Image Credits
+  misc_text: 'Photography: Iwan Baan, SO-IL'
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: meissen, transhistoria, zenith-nadir, a-conversation-with-ivan-chermayeff

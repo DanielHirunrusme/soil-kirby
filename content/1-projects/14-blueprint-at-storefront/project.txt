@@ -1,0 +1,195 @@
+Group-start-0: 
+
+----
+
+Title: Blueprint at Storefront
+
+----
+
+Date: 2015-01-23
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# Curated by Florian Idenburg, Jing Liu and artist Sebastiaan Bremer, Blueprint at Storefront for Art and Architecture is the second iteration of an exhibition originally displayed at Kunsthal KAdE. The exhibition invited artists and architects to reflect on the theme of origination through the medium of the blueprint, triggering an assessment of the past and a trajectory for the future.
+
+Realized as part of the exhibition, SO – IL’s installation shrink-wraps the gallery’s façade of varied and irregular openings, transforming the existing exterior into one continuous and undulating surface.
+
+This mothballing technique is typically used to “put things away” in a range of applications from suspending work on construction sites to preserving ships, and tanks.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 2_Blueprint-SO-IL-5596.jpg
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_Blueprint-SO-IL-5812.jpg
+  image_caption: Blueprint, aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_Blueprint-SO-IL-5596.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_Blueprint-SO-IL-5704.jpg
+  image_caption: exterior detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_Blueprint-SO-IL-5665.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_Blueprint-SO-IL-5919.jpg
+  image_caption: night view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_Blueprint-SO-IL-5852.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    7_2015_01_08_exploted_view_for_newsletter-01-01-e1423591107495.png
+  image_caption: exploded isometric
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Storefront for Art and Architecture
+
+----
+
+Location: New York, USA
+
+----
+
+Program: Exhibition, installation
+
+----
+
+Area-meters: 80
+
+----
+
+Area-feet: 870
+
+----
+
+Status: Completed 2015
+
+----
+
+Team: Florian Idenburg, Max Hart Nibbrig
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Fabrication Consultant: Atlantic Shrinkwrap, Dustin Hoover
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: Blueprint-at-Storefront.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: transhistoria, blueprint, meissen, tricolonnade, pollination

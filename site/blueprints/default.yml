@@ -1,0 +1,16 @@
+title: Page
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  markdown
+  		tools:
+        - header1
+        - image
+        - link
+  			- orderedList
+  			- unorderedList

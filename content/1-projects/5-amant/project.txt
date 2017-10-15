@@ -1,0 +1,211 @@
+Group-start-0: 
+
+----
+
+Title: Amant
+
+----
+
+Date: 2015-02-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# This is a non-commercial art space located in a Brooklyn neighborhood, consisting of artists' studios, exhibition and multi-media project spaces, along with storage and exhibition spaces for a private collection.
+
+Visually and spatially marked by its industrial past, this concrete volume is an exploration in soft form, where a cluster of shells acts to diffuse an exterior presence and shape the building's interior.
+
+The self-supporting geometry of these shells exists in tension with programming, light, and circulation. The constant calibration of these constraints inform the contours of the building. Apertures in the shells capture and carry natural light into a nearly edge-less interior, challenging the perception of a defined space.
+
+Across the building's exterior, edges and seams slip in and out of appearance. Throughout, the building's suppleness and muted palette play with ambiguity and legibility; neither monumental nor prosaic, instead it entices.
+
+Construction is slated to start in early 2016, with a completion date in 2017.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: Axonometric-Topo-Base-01.png
+  image_caption: axonometric view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 00_Street-Elevation_01.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: Section-1-01.png
+  image_caption: section
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: Section-2-01.png
+  image_caption: section
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 1x_Sculpture-Gallery-View.jpg
+  image_caption: interior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2x_To-Terrace.jpg
+  image_caption: interior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3x_Gallery-302.jpg
+  image_caption: interior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: 
+
+----
+
+Location: Brooklyn, New York, USA
+
+----
+
+Program: Exhibition spaces, Project spaces, Studios
+
+----
+
+Area-meters: 2040
+
+----
+
+Area-feet: 22000
+
+----
+
+Status: Construction Documents; Expected 2017
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Kevin Lamyuktseung, Kerim Miskavi, Ted Baab, Lucie Rebeyrol, Pietro Pagliaro, Hannes Kalau vom Hofe, John Chow, Yuko Sono, Antoine Vacheron
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+Architect of Record: Andrew Reyniak
+Structural: Schlaich Bergermann und Partner
+MEP: AltieriSeborWieber LLC Consulting Engineers
+Lighting: Renfro Design Group
+Cladding Consultant: Simpson Gumpertz & Heger
+Envelope Consultant: Certain Measures
+Civil: PW Grosser
+Expediter: J. Callahan Consulting, Inc.
+Concrete: Reginald Hough Associates
+Geotechnical: Langan Engineering
+Acoustics / AV: Harvey Marshall Berling Associates
+Project Manager: Paratus Group
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: kukje-galleryk3, arta

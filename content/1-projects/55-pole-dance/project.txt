@@ -1,0 +1,224 @@
+Group-start-0: 
+
+----
+
+Title: Pole Dance
+
+----
+
+Date: 2010-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# In our winning design for the MoMA PS1 Young Architects Program we take the opportunity to further contemporary explorations of sensory-charged environments, rather than finite forms. Especially in the case of envisioning a temporary structure for the PS1 courtyard, which needs to perform two seemingly contradictory tasks (calming and carousing), a worthy proposition needed to consider the choreography of situations rather than object-making.
+
+We designed a participatory environment that reframes the conceptual relation between humankind and structure. It consists of an interconnected system of poles and nets whose equilibrium is constantly affected by human action and environmental factors, such as rain and wind. 3] [Upon discovery of its elasticity, visitors engage with the structure to invent games, test its limits or just watch it gently dance. We hope that such an environment reengages the public with the physical realm, triggering increased awareness and care for one’s direct environment.
+
+The small courtyard adjacent to the main space holds an immersive, interactive portion where visitors can create and control a rich sound experience from within the installation. Eight poles contain “accelerometers”—electronic devices that measure the motion of the poles—connected to custom software that converts motion into tones specifically composed for the installation. An iPhone application allows visitors to affect the quality of sound for each pole in real time. By turning the effects levels up or down the audience can collaboratively vote to change the active sound of their environment. The application also collects the movements of the interactive poles and visualizes the dynamic activity and movement within the installation in real time.
+
+The entire system is assembled from ready-made materials. The details allow for the system to be broken down without material degradation. Most components have been repurposed since the installation was closed.
+
+Photography by Iwan Baan.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 100105686
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_SO-IL-Pole-dance-2.jpg
+  image_caption: aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_SO-IL-Pole-dance-3.jpg
+  image_caption: large courtyard, aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_SO-IL-Pole-dance-4.jpg
+  image_caption: large courtyard
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_SO-IL-Pole-dance-1.jpg
+  image_caption: small courtyard
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_SO-IL-Pole-dance-7.jpg
+  image_caption: small courytard
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  video: "100414281"
+  video_sound: "0"
+  video_caption: large courtyard
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  video: "100105686"
+  video_sound: "0"
+  video_caption: large courtyard
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  video: "100105752"
+  video_sound: "0"
+  video_caption: large courtyard
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  image: 6_PS1_diagram2-e1399141211402.jpg
+  image_caption: detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_PS1_plan-e1399141257513.jpg
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: MoMA PS1
+
+----
+
+Location: New York, USA
+
+----
+
+Program: Outdoor interactive environment
+
+----
+
+Area-meters: 1.400
+
+----
+
+Area-feet: 15,000
+
+----
+
+Status: Competition, first prize, completed 2010
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ted Baab, Iannis Kandyliaris, Daniel Kidd, Eric Lane, Ryan Madson, Kenzo Nakakoji, Cheon-Kang Park, Liz Shearer
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+Structural Engineer: Buro Happold
+Interactive Sound Installation: Arup
+Mobile App, Graphics, Identity: 2×4
+Construction Management Consultant: Sciame
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_PoleDance.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: frieze-art-fair, flockr-get-it-louder, jan-shrem-and-maria-manetti-shrem-museum-of-art, urban-fabrics, spiky, kukje-galleryk3

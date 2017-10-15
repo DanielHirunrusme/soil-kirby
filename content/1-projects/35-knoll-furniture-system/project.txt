@@ -1,0 +1,164 @@
+Group-start-0: 
+
+----
+
+Title: Knoll Furniture System
+
+----
+
+Date: 
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# In 2014, Knoll Furniture Company approached SO – IL to investigate contemporary work spaces through the design of a new furniture line. 1 Simultaneously, a research studio was initiated by the two at Harvard Graduate School of Design, which informs the direction of the project.
+
+Modes of work have become more fluid, casual, spontaneous. The contemporary office requires flexibility and its furniture must accept misuse and reinterpretation.
+
+For Knoll, SO – IL has produced three pieces; they are simultaneously seating, surfaces, and objects made to respond to the increasingly fluid nature of creative production in the work space. The pieces act as an assembly; they absorb new organizations and allow for serendipitous interaction. The new office space is unscripted. This assembly of furniture for Knoll is not a defined set for production, but instead, a provocation for new ideas.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_SO_IL_Benoit_Pailley_0109_KL_web.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_SO_IL_Benoit-Pailley_Draft-2_web.jpg
+  image_caption: 1:1 mockup of pouf portion
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Knoll Furniture Company
+
+----
+
+Location: 
+
+----
+
+Program: Furniture
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: In Progress
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Kevin Lamyuktseung, Pietro Pagliaro, Emma Silverblatt
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: Knoll.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: future-work, workspheres

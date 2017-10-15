@@ -1,0 +1,236 @@
+Group-start-0: 
+
+----
+
+Title: Art Collections Center
+
+----
+
+Date: 2015-07-04
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# The Art Collections Center houses the storage of a renowned collection of modern and contemporary art.  Currently dispersed across multiple locations, the Collections Center will be the hub for administrative and exhibition related activities from conservation and storage to exhibition mock-ups and research. 
+
+Located in New York’s East Harlem, the Center is an active collaborator in the area’s changing economic, social and cultural context.
+
+SO – IL developed three design approaches that investigate how the building could be a tool for learning. Each organization conditions a different form of institutional interaction between the collection, staff and community. [In addition to complex environmental, security and climate requirements for the protection and maintenance of the collection, the Center integrates both open and private spaces for staff with a flexible and dynamic public forum.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_IMG_6079+_web.jpg
+  image_caption: three design approaches
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_IMG_6072+_web.jpg
+  image_caption: 'sketch 1: context model'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_IMG_6926-copy_web1.jpg
+  image_caption: 'sketch 1: section model'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    4_2015-07-19_program-circulation_edit_1-program.png
+  image_caption: 'sketch 1: program diagram'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    5_2015-07-19_program-circulation_edit_1-circulation.png
+  image_caption: 'sketch 1: circulation diagram'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_IMG_6071+_web.jpg
+  image_caption: 'sketch 2: context model'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_IMG_6856-copy_web1.jpg
+  image_caption: 'sketch 2: section model'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    8_2015-07-19_program-circulation_edit_2-program.png
+  image_caption: 'sketch 2: program diagram'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    9_2015-07-19_program-circulation_edit_2-circulation.png
+  image_caption: 'sketch 2: circulation diagram'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 10_IMG_6073+_web.jpg
+  image_caption: 'sketch 3: context model'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 11_IMG_6873-copy_web1.jpg
+  image_caption: 'sketch 3: section model'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    12_2015-07-19_program-circulation_edit_3-program.png
+  image_caption: 'sketch 3: program diagram'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    13_2015-07-19_program-circulation_edit_3-circulation.png
+  image_caption: 'sketch 3: circulation diagram'
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Undisclosed
+
+----
+
+Location: New York, USA
+
+----
+
+Program: Art storage, exhibition staging, public plaza
+
+----
+
+Area-meters: 16.700
+
+----
+
+Area-feet: 180,000
+
+----
+
+Status: Competition, 2015
+
+----
+
+Team: Jing Liu, Florian Idenburg, Ilias Papageorgiou, Ted Baab, Nazanin Nayini, Kerim Miskavi, Lucie Rebeyrol, Pietro Pagliaro, David Hecht, Yuko Sono, Bryson Armstrong
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: Guggenheim.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: site-verrier, whitney-education, university-of-arts-london-school-of-fashion

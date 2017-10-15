@@ -1,0 +1,180 @@
+Group-start-0: 
+
+----
+
+Title: Costa House
+
+----
+
+Date: 2016-03-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# This expansion of an important historical Kentucky home responds to the beautiful natural setting in which the house is located. Instead of a typical transparent garden room, we propose a façade that reflects and filters the surroundings to create an enveloping magical atmosphere.
+
+The kitchen counter, cooking island and floor are all created from poured-in-place concrete. Material innovation was also used for the roof. It is made of fiber reinforced plastic, eliminating the need for structure.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_COSTA_plan1.png
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_COSTA_siteplan1.png
+  image_caption: site plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_DSC_5435_ip.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_DSC_5527.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_DSC_5536.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: 
+
+----
+
+Location: Lexington, Kentucky
+
+----
+
+Program: House extension
+
+----
+
+Area-meters: 45
+
+----
+
+Area-feet: 485
+
+----
+
+Status: Concept design 2011
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Engineering: Front Inc
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Costa.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: chermayeff-house, party-wall, syracuse-housing

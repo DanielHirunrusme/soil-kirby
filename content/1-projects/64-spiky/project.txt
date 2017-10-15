@@ -1,0 +1,194 @@
+Group-start-0: 
+
+----
+
+Title: Spiky
+
+----
+
+Date: 2013-10-01
+
+----
+
+Intro: 
+
+----
+
+Text: Spiky is an artistic gesture that falls in a fuzzy zone between building and art. A conic expanded metal mesh canopy suspended on steel poles, Spiky activates the urban public space of the Beijing Olympic Park. Through its thought-provoking shape, this installation re-imagines the role of art as a component in public space.The system can be composed of anywhere from nine to twenty-five modules. Material research led to an innovative use of expanded metal mesh, which comes from the nearby northeastern region of China. From this standard economic product, SO – IL studied cutting techniques and methods to control geometry so that a two-dimensional sheet could become a three-dimensional form. Spiky uniquely frames the world around us, feeling simultaneously solid and porous depending on the users’ perspective. We hope that this ambiguity might stir the thoughts of its visitors and allow them to reflect on how we interact with the built environment around us.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_MG_8752.jpg
+  image_caption: front view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_MG_0776.jpg
+  image_caption: detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_MG_0708.jpg
+  image_caption: detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_MG_0752.jpg
+  image_caption: detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_01.png
+  image_caption: concept diagram
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_02.png
+  image_caption: concept diagram
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_031.png
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_04.png
+  image_caption: section
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: 5th China International Architectural Biennial 2013
+
+----
+
+Location: Beijing, China
+
+----
+
+Program: Public space
+
+----
+
+Area-meters: 100
+
+----
+
+Area-feet: 1100
+
+----
+
+Status: Completed 2013
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Iannis Kandyliaris, Nile Greenberg, Tianci Han, Dichen Ding
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Fabrication Consultation : Zahner
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Spiky.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: flockr-get-it-louder, tricolonnade, urban-fabrics, pole-dance

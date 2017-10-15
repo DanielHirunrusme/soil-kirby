@@ -1,0 +1,13 @@
+Title: News
+
+----
+
+Perpage: 5
+
+----
+
+Text: 
+
+----
+
+Info: 

@@ -1,0 +1,202 @@
+title: Project
+
+files:
+  sortable: true
+  
+pages: false
+
+fields:
+
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+
+  date:
+      label: Date
+      type: date
+      format: MM/DD/YYYY
+      width: 1/4
+  
+  text:
+    label: Text
+    type:  markdown
+  		tools:
+        - header1
+        - image
+        - link
+  			- orderedList
+  			- unorderedList
+
+
+    
+  featured_image:
+    label: Featured Image
+    type:  image
+    width: 2/4
+  
+  featured_image_size:
+    label: Featured Image Size
+    type: select
+    default: full_bleed
+    width: 2/4
+    options:
+      contain: Contain
+      full_bleed: Full Bleed
+  
+  featured_video:
+    label: Featured Video
+    type:  text
+    width: 2/4
+    
+  featured_video_sound:
+    label: Play Featured Video Sound?
+    icon: volume-up
+    type:  checkbox
+    width: 2/4
+  
+  featured_text_color:
+    label: Featured Text Color
+    type: select
+    default: black
+    width: 2/4
+    options:
+      black: Black
+      white: White
+  
+  featured_hide_caption:
+    label: Hide Caption in large image sequence
+    type: checkbox
+    width: 2/4
+
+
+    
+  builder:
+    label: Sections
+    type: builder
+    fieldsets:
+      projectimage:
+        label: Image
+        snippet: builder/projectimage
+        fields:
+          image:
+            label: image
+            type: image
+          image_caption:
+            label: Caption
+            type: text
+          image_caption_color:
+            label: Caption Color
+            type: select
+            default: black
+            width: 2/4
+            options:
+              black: Black
+              white: White
+          image_fit_browser:
+            label: Display this media to fit browser window?
+            type: checkbox
+            width: 2/4
+     
+      projectvideo:
+        label: Video
+        snippet: sections/projectvideo
+        fields:
+          video:
+            label: Vimeo URL ID https://vimeo.com/(the ID)
+            type: text
+          video_sound:
+            label: Play Sound?
+            type: checkbox
+          video_caption:
+            label: Caption
+            type: text
+          video_caption_color:
+            label: Caption Color
+            type: select
+            default: black
+            width: 2/4
+            options:
+              black: Black
+              white: White
+          video_fit_browser:
+            label: Display this media to fit browser window?
+            type: checkbox
+            width: 2/4
+  
+
+    
+  client:
+    label: Client
+    type:  text
+  
+  location:
+    label: Location
+    type:  text
+  
+  program:
+    label: Program
+    type:  text
+  
+  area_meters:
+    label: Area (meters)
+    type:  text
+    width: 1/2
+  
+  area_feet:
+    label: Area (feet)
+    type:  text
+    width: 1/2
+  
+  status:
+    label: Status
+    type:  text
+  
+  team:
+    label: Team
+    type: textarea
+  
+  deck:
+    label: Deck
+    type: textarea
+  
+  collaborators:
+    label: Collaborators
+    type: textarea
+  
+  press:
+    label: Press
+    type: textarea
+  
+  misc:
+    label: Miscellaneous
+    type: structure
+    entry: >
+    fields:
+      misc_title:
+        label: Title
+        type: text
+      misc_text:
+        label: Misc Text
+        type: textarea
+
+
+    
+  project_pdf:
+    label: Project PDF
+    type: select
+    options: documents
+  
+
+    
+  related:
+    label: Related Projects 
+    type: relationship
+    options: query
+    query:
+      page: projects
+      fetch: children
+    search: true
+  
+
+  

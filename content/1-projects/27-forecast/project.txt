@@ -1,0 +1,192 @@
+Group-start-0: 
+
+----
+
+Title: Forecast
+
+----
+
+Date: 
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# This exhibition presents the gestation of a building. Seven approximations of the design, where no one study is capable of encompassing the project as a whole; instead we display a living, growing archive of its becoming. Each study is simultaneously record, byproduct and prediction. They portray the same evolving idea, each with a different set of partialities and constraints.
+
+A composition relating the envelope surfaces to one another and to the whole, in wireframe. A pair of experimental casting methods of the progenitor saddle-shaped form and of the whole. 
+
+* A series of mutations in the geometry reflecting the continual jostling of constraints
+* A pair of sections placing the envelope surfaces within a larger corpus of interior spaces.
+* A recording of its digital existence; if the model is the front of house, this processing is the back.
+* A materialization of the idea, in nylon, wood, steel, and people (Ana Prvacki, 2007)
+* A cast of the building envelope as it is, at this very second.
+
+Each study is displayed as a discrete experiment. Together, they are a forecast of a building to be constructed in the near future. A building for the holding and display of art. A shrink wrap of concrete, where fundamental elements of the building, its systems of climate, lighting and movement, distort the envelope and so shape the spaces which they serve in a reciprocal way. The envelope geometry is the natural settling of a surface in tension around these elements. The resulting whole plays a game of legibility in the medium of concrete, blurring the edges of articulation and continuity. One can imagine this collection of approximations as the essence of the building, which raises the question: At what moment is architecture realized?
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_SO-IL-7__.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_SO-IL-8_.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_DSC_0061_.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_SO-IL-4_.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_SO-IL-6_.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: RISD
+
+----
+
+Location: Providence, RI
+
+----
+
+Program: Exhibition Design
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: 
+
+----
+
+Team: 
+
+Project Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ted Baab, Kevin Lamyuktseung, Max Hart Nibbrig, Antoine Vacheron, Supasai Vongkulbhisal, Abigail Chang
+
+Exhibition Team: Kevin Lamyuktseung, Max Hart Nibbrig, Aaron Forrest, Whitney Bosel, Rami Hammour, Natalie Kruch, Shauni Lin, Mengcen Shen, Brandon Wang, Stella Xuan, Emily Yen
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Andrew Witt (Certain Measures) and Diederik Veenendaal ((BLOCK Research Group, ETH Zurich)
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: future-archeology

@@ -1,0 +1,192 @@
+Group-start-0: 
+
+----
+
+Title: Wedding Chapel
+
+----
+
+Date: 2008-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# This is a proposal for a wedding Chapel as part of the China International Practical Exhibition of Architecture, (CIPEA) in Nanjing. The project is located northwest of the old capital, on the lush shores of Foshou Lake.
+
+Situated in a beautiful mountainous landscape, we propose a singular gesture to create an intimate environment. [Through splitting the topographic landscape a space is generated within the site. Surrounded by trees, light filters in from the sides. From the top of the roof, one can see the sunset behind the mountains and the Yangtze river in the distance.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_PLAN_SV.jpg
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_CHIPEA_siteplan-e1401308645324.jpg
+  image_caption: site plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_CHIPEA_section-e1401308612678.jpg
+  image_caption: section
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_P8153653-copy.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_P8153648-copy.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_VIEW02-copy.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_INTERIORFINAL.jpg
+  image_caption: interior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Nanjing Foshou Lake Architecture & Art Development Ltd.
+
+----
+
+Location: Nanjing, China
+
+----
+
+Program: Wedding chapel
+
+----
+
+Area-meters: 450
+
+----
+
+Area-feet: 4,850
+
+----
+
+Status: Concept design 2008
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Iannis Kandyliaris, Chris Cornecelli, Shusuke Nakajima
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_WeddingChapel.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: veiled

@@ -1,0 +1,223 @@
+Group-start-0: 
+
+----
+
+Title: Site Verrier
+
+----
+
+Date: 2015-02-19
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# Hidden in the bucolic landscape of Northern Vosges Natural Park, Site Verrier de Meisenthal is an active cultural center in a historic glass factory dating back to the 18th century. SO – IL’s intervention defines a contemporary institutional identity in dialogue with an industrial heritage.
+
+Site Verrier is a publicly funded project composed of three independent yet interrelated institutions: the glass museum (Musée du Verre et du cristal) – a living memory tracing the history of glass at the site; the CIAV (Centre International d’Art Verrier) – an international glass art center where traditional craftsmanship meets contemporary practices; and the Cadhame (Halle verrière) – a multidisciplinary cultural space hosting art installations, happenings and concerts.
+
+The design of Site Verrier alludes to glass production with an undulating poured-in-place concrete surface. The surface functions as roof, ceiling and wall, connecting the site’s buildings and framing a public plaza. New functions are sensitively introduced under and over this surface, including offices, workshop areas, a cafe and restaurant, and a 500-seat blackbox theater that can be reconfigured as a theater with standing room for 700 or opened into a concert hall for 3,000. The new public space heightens civic awareness of the historical site and also introduces a highly flexible space to host outdoor theater, concerts, and seasonal festivities.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_credit-Jean-Claude-Kanny-5.jpg
+  image_caption: aerial view of Meisenthal
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_01_Birdeyes.jpg
+  image_caption: aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_04_courtyard-view-3.jpg
+  image_caption: view towards glass blowing center
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_02_courtyard-view-1.jpg
+  image_caption: view towards visitor center
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_birdseye.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_05frontal.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_IMG_0897.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_IMG_0899.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 9_site-plan_edit-2-01.png
+  image_caption: site plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 10_LEVEL-01_edit-2-01.png
+  image_caption: first floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Communauté de communes du Pays de Bitche
+
+----
+
+Location: Meisenthal, France
+
+----
+
+Program: Cultural center, visitor center, black box theater, art storage, offices, workshop areas, classrooms, cafe, restaurant
+
+----
+
+Area-meters: 5000
+
+----
+
+Area-feet: 53,800
+
+----
+
+Status: Competition first prize 2015, expected 2022 (in phases)
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Lucie Rebeyrol, Seunghyun Kang, Pietro Pagliaro, Danny Duong, Antoine Vacheron, Max Hart Nibbrig
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+FREAKS architects
+
+dUCKS scenography
+MDETC cost estimator
+MHI structural engineer
+Peutz acoustic
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+- 
+  misc_title: Image Credits
+  misc_text: 'Aerial photo: Jean-Claude Kanny'
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: kukje-galleryk3, meissen, amant, jan-shrem-and-maria-manetti-shrem-museum-of-art, z33-house-for-contemporary-art, whitney-education

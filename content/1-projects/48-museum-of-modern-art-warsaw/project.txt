@@ -1,0 +1,194 @@
+Group-start-0: 
+
+----
+
+Title: Museum of Modern Art Warsaw
+
+----
+
+Date: 2012-08-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+The Museum of Modern Art Warsaw has an ambitious mission to both collect and display contemporary art from Poland and around the world. It is one of the few museums in the region actively collecting and exhibiting work from young artists in Poland working across media, including video, installation, performance, and sculpture.
+
+Our project adapts a former government-run furniture showroom, in a landmarked late-modern building directly across from Warsaw’s imposing Ministry of Culture building. The museum’s director has called late-modernism Poland’s only national “style,” giving great importance to adapting the structure for a new life as a national museum.
+
+The project both clarifies the bold cast-concrete structure, and re-imagines how it can be used. Though a series of strategic insertions in the atrium and the lobby, SO – IL’s design opens up the ground floor space, adds an auditorium, and reconfigures the retail circulation to encourage exploration, and to produce different exhibition environments.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_WARSAW-FL-PLAN-01.png
+  image_caption: ground floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_WARSAW-FL-PLAN-02.png
+  image_caption: second floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_5190bdf8713cd.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_519b7cfae6073.jpg
+  image_caption: interior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_GALLERY.jpg
+  image_caption: gallery view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_LOBBY.jpg
+  image_caption: entry lobby
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7ATRIUM.jpg
+  image_caption: gallery view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Museum of Modern Art, Warsaw
+
+----
+
+Location: Warsaw, Poland
+
+----
+
+Program: Galleries, cafe, theater, bookstore, education classrooms
+
+----
+
+Area-meters: 4.650
+
+----
+
+Area-feet: 50,000
+
+----
+
+Status: Competition, First prize, 2012
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ted Baab, Andre Herrero, Gunho Kim
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Associate Architect: Projeckt Praga
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Warsaw.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: arta, jan-shrem-and-maria-manetti-shrem-museum-of-art, kukje-galleryk3, frieze-art-fair

@@ -1,0 +1,166 @@
+Group-start-0: 
+
+----
+
+Title: Learning Curves
+
+----
+
+Date: 2012-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# The university is changing. Profound social, cultural, and technological developments are transforming the conventional university model—radically altering the way academic campuses and buildings are shaped and used. The university of the future will not necessarily be organized around traditional disciplines, but instead around evolving issues and problems.
+
+SO – IL’s design for the Schools of Arts, Architecture, Design and Media at Aalto University is organized around a number of academic nuclei. Each center possesses distinct architectural spaces in order to provide a range of differing relationships and experiences. The cores offer programmatic flexibility and spatial diversity creating rich sensorial environments that encourage new modes of thinking and learning. The design builds on the fact that learning happens not only in traditional classroom settings but everywhere—through casual interaction and exchange.
+
+The incremental layering of scales (gatherings, classes, cores, building, campus) is considered both spatially and experientially. Each space is linked to a larger whole. Rather than creating a new open space that would compete with the historic campus, the new building adds to the existing open space network to fuse the new building with the existing University spaces.
+
+There is no one way to use each space, only an environment ready for reinvention that can be reconfigured as needs change, making the building an efficient long-term solution.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_siteplan02b.png
+  image_caption: site plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_Large-Axo.jpg
+  image_caption: aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Aalto University
+
+----
+
+Location: Esbo, Finland
+
+----
+
+Program: Schools of Arts, Architecture, Design and Media
+
+----
+
+Area-meters: 5.000
+
+----
+
+Area-feet: 54,000
+
+----
+
+Status: Competition 2012
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ted Baab, Nile Greenberg, Alicia Hergenroeder, Georgia Read, Richard Duff
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Aalto.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: urban-fabrics, prato-nursery-school, arta

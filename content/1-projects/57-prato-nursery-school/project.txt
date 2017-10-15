@@ -1,0 +1,178 @@
+Group-start-0: 
+
+----
+
+Title: Prato Nursery School
+
+----
+
+Date: 2008-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# The Prato Nursery School is situated on an empty lot on the outskirts of Prato, Italy. The program calls for spaces initially for three and eventually six groups of 30 toddlers. The design proposes an open and multi-sensory, scalable world of enhanced environments in which children can explore, discover and play, but also feel safe, identify and reflect. The incremental use of scales (class, group of classes, building, world) is considered both spatially and experientially. Each space is part of, and inextricably linked to, a larger whole.
+
+The building is composed of a series of carefully defined curvilinear spaces tied together under a large penetrable roof, a pergola. As the child’s mind develops, fluid spaces enhance the urge for exploration and the discovery of relations. The abstraction of the geometry stimulates imagination. Large, bright, open spaces and darker, more intimate places are generated through (movable) walls, curtains and furniture.
+
+Apart from connecting the interior with the surroundings, the exterior area is also a place to play, explore and investigate. Here one is surrounded by a plethora of shadows, colours and plants. Recessed with three small steps, part of this field can become a theatre, a boat or a volcano. Moreover, this project does not merely deploy sustainable strategies as a technical exercise; rather, nature is an integral and fundamental part of the project’s proposition.
+
+This design makes environment a central part of the educational framework. The creation of a localised climate through a combination of constructed and organic materials demonstrates to children at an early age their interrelationship with a complex system, in which balanced cycles generate life.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_Model-1.jpg
+  image_caption: site plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_PRATO_plan-e1401307406894.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_PRATO-EXTERIOR.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_Interior-rendering.jpg
+  image_caption: interior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Municipality of Prato
+
+----
+
+Location: Prato, Italy
+
+----
+
+Program: Nursery school
+
+----
+
+Area-meters: 2.500
+
+----
+
+Area-feet: 27,000
+
+----
+
+Status: Competition 2008
+
+----
+
+Team: Florian Idenburg, Ilias Papageorgiou, Iannis Kandyliaris, Mete Sonmez
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: learning-curves, linked, arta

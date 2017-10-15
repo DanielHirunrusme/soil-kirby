@@ -1,0 +1,180 @@
+Group-start-0: 
+
+----
+
+Title: Chermayeff House
+
+----
+
+Date: 2009-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# The relationship between man and nature is fundamental within the architectural discipline. 1] [In this project, a weekend house sited on the high grounds of a forest in New York’s Hudson Valley, we propose to challenge the conventional ‘man-looking-over-nature’ trope.
+
+By dissolving the mass of the building into a loose gathering of solids and voids we create a house that is equally open in all directions and welcomes nature in. The common programs—dining, living, bedroom, study and bathroom—are separated from and connected to each other by un-enclosed courtyards. Passive cooling through cross ventilation and the shade of existing trees allows for the elimination of active cooling. The house realizes two distinct conditions: “living small”—by minimizing the construction footprint, and “living in the forest”—by creating a permeable edge between man-made and nature.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 0_CHERMEYEFF_plan-e1401307708992.jpg
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 1_Aerial.jpg
+  image_caption: aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_IMG_0255.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_CHERMAYEFF_MODEL_1.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_CHERMAYEFF_MODEL_2.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Ivan and Jane Chermayeff
+
+----
+
+Location: Garrison, New York
+
+----
+
+Program: House
+
+----
+
+Area-meters: 220
+
+----
+
+Area-feet: 2,400
+
+----
+
+Status: Construction documents 2009
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Iannis Kandyliaris, Takuya Iwamura
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Associate Architect: Sam Chermayeff
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Chermayeff.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: a-conversation-with-ivan-chermayeff, costa-house, party-wall, syracuse-housing

@@ -1,0 +1,182 @@
+Group-start-0: 
+
+----
+
+Title: In Bloom
+
+----
+
+Date: 2010-04-17
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# The Amsterdam neighborhood of Bijlmer—reputedly a “failed Modernist utopia”—is being regenerated into a multi-dimensional and diverse community. Within its park we are designing a pavilion, “In Bloom.” 
+
+Conceived in collaboration with artist Ben Kinmont as a restaurant, a communal kitchen serving local produce and a public art space, this structure would serve as a symbol and vehicle for the area’s metamorphosis.
+
+The round building is composed of a wood platform, a translucent roof, and light metal wings—or “petals”—along the perimeter. The petals hinge at the roof’s edge. In winter the petals are closed, revealing the sky, and allowing the warmth of the sun to enter and remain inside, as in a greenhouse. In summer the petals can be pushed up to open the space to the atmosphere of the surrounding landscape. In between seasons it can be opened as needed, constantly responding to the situation it holds, celebrating the perpetual cycles of life.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_PLAN-24-03011_SV.jpg
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_ROOF-PLAN-24-03-11_SV.jpg
+  image_caption: roof plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_SECTIONS-24-03-11_SV.jpg
+  image_caption: section
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_DETAIL-24-03-11_SV.jpg
+  image_caption: section detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_InBloom_MODEL.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Straat der Sculpturen
+
+----
+
+Location: Amsterdam, The Netherlands
+
+----
+
+Program: Restaurant
+
+----
+
+Area-meters: 200
+
+----
+
+Area-feet: 2.150
+
+----
+
+Status: Design Development 2010
+
+----
+
+Team: Florian Idenburg, Jing Liu, Iannis Kandyliaris
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_InBloom.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: flockr-get-it-louder, spiky

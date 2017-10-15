@@ -1,0 +1,38 @@
+title: Projects
+
+files: false
+
+pages:
+  template:
+      - project
+      - writing
+      - publication
+
+fields:
+  title:
+    label: Title
+    type:  text
+    
+  builder:
+    label: Project Categories
+    type: builder
+    fieldsets:
+      projectcategry:
+        label: Project Category
+        type: text
+        fields:
+          projectcategorytitle:
+            label: Project Category Title
+            type: text
+          projectcategoryprojects:
+            label: Related Projects 
+            type: relationship
+            options: query
+            query:
+              page: projects
+              fetch: children
+            search: true
+         
+
+
+  

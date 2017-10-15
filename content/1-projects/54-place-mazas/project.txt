@@ -1,0 +1,148 @@
+Title: Place Mazas
+
+----
+
+Date: 2017-07-14
+
+----
+
+Text: 
+
+# In joining the Reinventer La Seine competition for the Place Mazas site in Paris, New York-based architects SO – IL and Paris-based Laisne Roussel have partnered with French real estate developers REI Habitat and Icade to create a captivating design proposal. Our winning submission offers a fresh approach to urbanism, one that carefully considers contemporary as well as historical contexts while creating a flexible infrastructure that can evolve in parallel with the city.
+
+The focus of our proposal, titled “L’ Atelier de l’ Arsenal”, is the transformation of the underused site of Place Mazas into a new social node for Paris. Located at the junction of Canal Saint Martin and the Seine River, the site forms a critical intersection of cultural, economic, and environmental networks. It is also strategically positioned at the center of important future development projects like the Balade de L’Arsenal, a new urban path, and the new pedestrian waterfront park, parc Rives de Seine.
+
+The site is divided into two parts. The first is a seven-story volume that continues the historical Haussmanian axis and tops out just below its neighboring 19th century residential building. This volume includes a housing program in co-living typology, with several interior and exterior shared spaces for the residents as well as a public restaurant on the ground floor.
+
+The second, located on the axis of Bastille, is dedicated to public activities. It maintains a lower profile, opening up views to the Seine River. This part of the site includes three new public squares, a lockhouse built in 1905 that is being repurposed, and a temporary pavilion that will host facilities like public co-working spaces, a fabrication lab, an event room, and an exterior terrace offering new views on the Arsenal Basin, the Seine River, and the surrounding city, as well as a facility for homeless care already established on site.
+
+Our proposal creates a flexible composition of spaces and buildings that stimulates diversity and anticipates further civic transformations. We understand that urban space doesn’t stop evolving; after twelve years the public zone may be returned to the city, offering the opportunity to update its use once more.
+
+Sustainability is a driver of the project. Our design represents a new relationship to the waterfront as Paris works to create a swimmable river in the near future. Included on the site are a public swimming pool as well as a pool for biodiversity research and water quality monitoring. The proposal’s housing is constructed from locally sourced timber and its temporary pavilion features a dismountable structure made of renewable materials, facilitating urban growth while decreasing environmental impact.
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Builder: 
+
+- 
+  image: 1_2017-04-27_AERIAL_2018.jpg
+  image_caption: aerial view above Seine River
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_2017-04-27_ARSENAL.jpg
+  image_caption: aerial view from Arsenal Basin
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_2017-04-27_PLAZA.jpg
+  image_caption: plaza view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_2017-07-18_Axonometric-11.png
+  image_caption: axonometric view from Arsenal Basin
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  video: "225756933"
+  video_sound: "0"
+  video_caption: ""
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+
+----
+
+Client: City of Paris
+
+----
+
+Location: Paris, France
+
+----
+
+Program: Co-living, restaurant, fab-lab, co-working, auditorium, communal spaces
+
+----
+
+Area-meters: 5,600
+
+----
+
+Area-feet: 60,000
+
+----
+
+Status: Competition, 1st place, expected 2020
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ian Ollivier, Alvaro Gomez-Selles Ferndandez, Pam Anantrungroj, Marisa Musing
+
+----
+
+Deck: Deck goes here. Will be approximately three lines of text and can be turned on and off.
+
+----
+
+Collaborators: 
+
+Developer: REI
+Developer: ICADE
+Associate Architect: Laisné Roussel
+Landscape: Atelier Georges
+Cultural Consultant: Manifesto
+Engineer: Elioth
+Urban strategy consultant: OFC
+Co-working operator: WoMa
+Housing operator: Coloines
+Social Service Association: Aurore
+Cultural Partners: Institut du Monde Arabe and Tara
+Acoustic: AcooustB
+Environmental Performanec: Sinteo
+General Contractor: Maitre Cube
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Project-pdf: Place-Mazas-Web-Text.pdf
+
+----
+
+Related: campus-sante, meicang-art-district, party-wall, site-verrier, syracuse-housing, tiny

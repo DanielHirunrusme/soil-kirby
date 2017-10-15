@@ -1,0 +1,190 @@
+Group-start-0: 
+
+----
+
+Title: Sinfonia Varsovia
+
+----
+
+Date: 2010-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# This competition entry is for a 1500-seat performance hall situated within the beautiful former Veterinarian Institute in Warsaw, Poland. This lush enclave has qualities which, in its transformation to the Sinfonia Varsovia Orchestra performance center, would be used to strengthen the special character of the location. These qualities—its classical organization, a number of historic buildings and the omnipresence of nature—give the site an air of tranquility and timelessness.
+
+With our proposal, this site is made accessible and permeable. First, we would introduce entrances on all sides, thus creating a welcoming air, nestling the institute and the music performed therein within the neighborhood and the city beyond.
+
+In line with the overall concept for the site, the performance hall is positioned on a central axis. Through its plan and form, the building not only responds to the monuments on-site but also transcends these and opens up the site to activities and audiences beyond these buildings and borders. The interior of the public space is elegant and can be experienced by ascending the dramatic circulation between the hall and the outer form. Clear separations between back of house and front of house and ticketed and non-ticketed areas make the building easy to navigate and operate. Dressing rooms and the large rehearsal room are situated under the hall, making for a compact, functional building. The rehearsal and performance rooms are structurally separated from the rest of the building for acoustic reasons.
+
+The proposed concert hall is designed following a vineyard approach. The stage and seating are enclosed in an inner volume that communicates with a surrounding outer volume. The connection between the inner and outer volumes can be opened or closed to adjust for orchestral forces and reverberation requirements of the musical repertoire. Sets of reflective surfaces are situated above, behind and around audience terraces. The shape and angle of the reflective surfaces are parametrically optimized to catch sound coming from the stage and orchestra reflector and to send it back onto audience terraces, providing an enhanced sense of acoustic intimacy, clarity and spaciousness.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_VARSOVIA_siteplan-e1401309722564.jpg
+  image_caption: site plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_VARSOVIA_plan-e1404849419667.jpg
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_VARSOVIA_section-e1401309671849.jpg
+  image_caption: section
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_IMG_54721.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_VARSOVIA_evening-render.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_VARSOVIA_Room.jpg
+  image_caption: interior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Local Government Institution of Culture of the Capital City of Warsaw
+
+----
+
+Location: Warsaw, Poland
+
+----
+
+Program: Concert hall 1500 seats, rehearsal 500 seats
+
+----
+
+Area-meters: 15.000
+
+----
+
+Area-feet: 160,000
+
+----
+
+Status: Competition 2010
+
+----
+
+Team: Florian Idenburg, Jing Liu ,Ilias Papageorgiou, Iannis Kandyliaris, Ted Baab, Blanka Levacic, Domagoj Marakovic
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Acoustic Consultant: Arup
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Warsovia.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: bloom, linked, museum-of-modern-art-warsaw

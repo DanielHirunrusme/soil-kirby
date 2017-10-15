@@ -1,0 +1,207 @@
+Group-start-0: 
+
+----
+
+Title: New Inc
+
+----
+
+Date: 2014-10-17
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# New Museum commissioned SO – IL to provide workplace consult and design services for New Inc., the first museum-led incubator. New Inc. is a shared workspace and professional development program designed to support creative practitioners working in the areas of art, technology, and design.
+
+Launched in summer 2014, New Inc. provides a collaborative space for a highly selective, interdisciplinary community of one hundred members to investigate new ideas and develop a sustainable practice. With 11,000 square feet of dedicated workspace, labs, social areas, and event space, New Inc. offers an ideal environment for seeding and testing creative enterprises.
+
+By offering a variety of work settings (different in style, tone, and atmosphere) and strategically locating communal programs such as the kitchen, lockers, and lounge, SO – IL maximized the space and set the stage for chance encounters, interaction, and cross pollination in line with New Inc.’s mission. A high level of transparency pulls daylight deep into the building, offering comfort and creating an awareness of place to support productivity and worker well-being.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 1_©nkubota_1600.jpg
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_©nkubota_1600.jpg
+  image_caption: interior
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_©nkubota_1752.jpg
+  image_caption: interior
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_©nkubota_1678.jpg
+  image_caption: interior
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_©nkubota_0963m.jpg
+  image_caption: interior
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_©nkubota_0882m.jpg
+  image_caption: interior
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_©nkubota_0874m.jpg
+  image_caption: conference room
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_©nkubota_0994m.jpg
+  image_caption: kitchen
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_©nkubota_1900.jpg
+  image_caption: interior detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    9_2013-12-04_SO-IL_231-Bowery_Schematic-Plan-for-Press-clean1.png
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: New Museum
+
+----
+
+Location: New York, USA
+
+----
+
+Program: Co-working space, project rooms, conference rooms, quiet booths
+
+----
+
+Area-meters: 750
+
+----
+
+Area-feet: 8,000
+
+----
+
+Status: Completed, 2014
+
+----
+
+Team: Florian Idenburg,  Jing Liu, Ilias Papageorgiou, Andre Herrero
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Executive architect: Gensler
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_NewInc.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: logan, derek-lam-atelier, workspheres

@@ -1,0 +1,264 @@
+Group-start-0: 
+
+----
+
+Title: ArtA
+
+----
+
+Date: 2014-05-16
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# ArtA is a new founded cultural institute situated along the Rhine River in the city of Arnhem, The Netherlands. ArtA will combine the Museum Arnhem and Focus Filmtheater Arnhem.
+
+Our proposal will serve as a link between the city and the Rhine, focusing on three main ideas: urban form, collective structure, and reflective space. A robust and identifiable public building for the city now and in the future, ArtA offers a multitude of interfaces for the city of Arnhem. Generous and flexible programmatic volumes support the production and experience of culture, as well as create a place for reflection and wonder—a transportive experience.
+
+The design is as an open and flexible structure, a “loose coat” of sorts. A multitude of spatial nuances in daylight, height, proportion, allow the building to adapt to an ever-changing culture-scape making it a productive place for both experimental and established forms of visual art, cinema and design. These “micro-environments” within the building reach a new mode of flexibility offering ArtA an endless catalogue of possibilities. The atrium, for example, can easily adjust to house a space for video projections, an art class, a book fair, or a fashion show.
+
+While the new ArtA building will be a platform for culture in the world, it will also offer a place to slow down and reflect. As a “cloud,” the building rests just above street level, full of surprises for the visitor to discover. Strategic openings give onto the city, the Rhine, and the landscape offering a whole new perspective for Arnhem.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 100105962
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_ArtA_High-01.png
+  image_caption: ground floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_ArtA_High-02.png
+  image_caption: office plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_ArtA_High-03.png
+  image_caption: theater plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_ArtA_High-04.png
+  image_caption: temporary exhibitions plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_ArtA_High-05.png
+  image_caption: permanent collection plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  video: "104547053"
+  video_sound: "0"
+  video_caption: ""
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  video: "104547005"
+  video_sound: "0"
+  video_caption: ""
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  video: "104546946"
+  video_sound: "0"
+  video_caption: ""
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  video: "104546948"
+  video_sound: "0"
+  video_caption: ""
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  video: "104548288"
+  video_sound: "0"
+  video_caption: ""
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  video: "100105962"
+  video_sound: "0"
+  video_caption: ""
+  video_caption_color: black
+  video_fit_browser: "0"
+  _fieldset: projectvideo
+- 
+  image: 6_Aerial-View.jpg
+  image_caption: aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    7_Final_Section_Model-adjsuted-e1404832525757.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_Night_Angle_Shot1.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 9_Night_Straight_Shot.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 10_church-from-museum-2f1.jpg
+  image_caption: gallery interior
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: City of Arnhem
+
+----
+
+Location: Arnhem, The Netherlands
+
+----
+
+Program: Museum, theater, workshop, education classrooms, cafe and restaurant, offices
+
+----
+
+Area-meters: 8,500
+
+----
+
+Area-feet: 92,000
+
+----
+
+Status: Competition finalist, 2014
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Gilbert Berthold, Felix Brinkhege, Lee Ann Custer, Nile Greenberg, André Herrero, Seunghyun Kang, Kevin Lamyuktseung, Pietro Pagliaro, Enzo Valerio
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+Associate Architect: Architectuurstudio HH (AHH)
+Technical Architect: ABT
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+- 
+  misc_title: Image Credits
+  misc_text: 'Video: Nikos Katsaounis'
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_ArtA.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: jan-shrem-and-maria-manetti-shrem-museum-of-art, frieze-art-fair, party-wall, kukje-galleryk3, museum-of-modern-art-warsaw, z33-house-for-contemporary-art

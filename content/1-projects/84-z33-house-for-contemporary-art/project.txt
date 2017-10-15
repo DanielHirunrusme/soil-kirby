@@ -1,0 +1,204 @@
+Group-start-0: 
+
+----
+
+Title: Z33 House for Contemporary Art
+
+----
+
+Date: 2012-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+Unlike most art museums, Z33 takes pride in its non-monumental brick building from 1958. Rather than being an icon for the city, the museum treats their structure like a playground for artists, allowing them to cut through walls, paint over floors, and add on to its exterior. As opposed to a polished plinth for the arts, the building is an active participant in the art-making process.
+
+Instead of creating an icon next to the idiosyncratic existing building, SO – IL’s proposal inherits the existing building grid, and extends it. A logic of corner openings creates a systematic way of moving through the old and new building together. Both buildings are very different in material character, but united in a consistent ideology of movement. The corner openings allow surprising views through the building to the garden behind, and allow endless combinations of gallery flows, easily accommodating multiple small shows or fewer large ones. The old and new spaces become characters in one spatial narrative.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_Z33_siteplan_02.png
+  image_caption: site plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_Z33_plan2.png
+  image_caption: plan
+  image_caption_color: black
+  image_fit_browser: "1"
+  _fieldset: projectimage
+- 
+  image: 3_diagram.png
+  image_caption: detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_model-wood.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_DSC_0820_web.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_Z33_exterior-street.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_09.3-e1404776496456.jpg
+  image_caption: detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_split-gallery-e1404837867172.jpg
+  image_caption: detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 9_Z33_skylight-gallery.jpg
+  image_caption: gallery view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Z33 House for Contemporary Art
+
+----
+
+Location: Hasselt, Belgium
+
+----
+
+Program: Exhibition spaces, theater
+
+----
+
+Area-meters: 3.000
+
+----
+
+Area-feet: 33,000
+
+----
+
+Status: Competition 2012, second prize
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ted Baab, Nile Greenberg, Thilde Bjørkskov, Ivo Hoppers
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Structural Engineer: Util
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: arta, jan-shrem-and-maria-manetti-shrem-museum-of-art, kukje-galleryk3, frieze-art-fair, museum-of-modern-art-warsaw

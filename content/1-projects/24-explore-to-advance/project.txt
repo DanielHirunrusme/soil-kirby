@@ -1,0 +1,261 @@
+Group-start-0: 
+
+----
+
+Title: Explore to Advance
+
+----
+
+Date: 2017-05-24
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# AS PARTNERS TO INNOVATORS AND SUPPORTERS OF CULTURE, WE ASK QUESTIONS AND REFRAME PROBLEMS to hone the vision for each project. Our team accomplishes goals in unexpected ways and goes further, offering new models for learning, living and working.
+
+With an accessible constellation of spaces for making and experiencing art, the Manetti Shrem Museum creates a new social node and emblem for the University of California, Davis. Dialogue with the client and the community guided the design. Amplifying the Museum’s mission for all visitors to be students, the project positions the institution as an evolving public event.
+
+We worked with MINI Living to develop Breathe, a modular housing prototype clad in air-purifying fabric. The project's holistic approach to sustainability encourages increased attention to our use of resources. Its mobile, adaptable structure suggests future applications.
+
+Our ongoing furniture system design for Knoll responds to the increasingly fluid nature of creative production in the workplace. A flexible assembly of three pieces invites new organizations and ideas.
+
+Incorporating translucent fabric and shared work tables, we realized an abstract environment for creative studio Logan. Filled with light, the open space supports varied processes and unifies activities from design through production.
+
+Moving displays and reflective surfaces distinguish our flexible wholesale showroom for Versace. As their unique forms shift and turn, the displays complement the collections and define zones for events.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_¬nkubota_5275_web1.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_Shrem-16-07-SO-IL-BCJ-3426.jpg
+  image_caption: >
+    Manetti Shrem Museum of Art, canopy as
+    icon and framework
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_30422743104_a512273515_b_web.jpg
+  image_caption: >
+    Manetti Shrem Museum of Art, visitors
+    interact with art in courtyard gallery
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    4_Legacy-Dinner_Jose-Villegas_244_web.jpg
+  image_caption: >
+    Manetti Shrem Museum of Art, public
+    plaza with projection on building
+    façade
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_13_0117_wall-4_web-2.jpg
+  image_caption: >
+    Manetti Shrem Museum of Art, idea wall
+    during concept development
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_11-of-15.jpg
+  image_caption: >
+    Breathe – MINI Living, installation at
+    Salone del Mobile 2017
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_10-of-15.jpg
+  image_caption: >
+    Breathe – MINI Living, modular frame
+    with air-purifying fabric
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_20170405_153129_resized_web.jpg
+  image_caption: >
+    Knoll Furniture System, prototypes at
+    Salone del Mobile 2017
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 9_IMG_5816__web.jpg
+  image_caption: Knoll Furniture System, study models
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 10_SO-IL-Future-Work-Collage-01.jpg
+  image_caption: >
+    Knoll Furniture System, vision of future
+    work space
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 11_Naho-Kubota_Logan-2_web.jpg
+  image_caption: Logan, shared desk space
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 12_Iwan-Baan_LOGAN-1320_web.jpg
+  image_caption: Logan, layered interior
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 13_©AH_2015-02-04_0105_lowres.jpg
+  image_caption: Versace Showroom, moving displays
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    14_11_SO-IL_Versace-Showroom_Detail-view-of-brass-floor-tracks_web.jpg
+  image_caption: Versace Showroom, track detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: 
+
+----
+
+Location: 
+
+----
+
+Program: 
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: 
+
+----
+
+Team: 
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: 

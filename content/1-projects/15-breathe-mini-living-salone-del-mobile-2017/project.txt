@@ -1,0 +1,279 @@
+Group-start-0: 
+
+----
+
+Title: Breathe – MINI Living, Salone del Mobile 2017
+
+----
+
+Date: 2017-04-03
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# Breathe is a housing prototype for the future living environment. It takes a holistic approach to sustainability. By making living an active experience, the installation shines a spotlight on environmental awareness and encourages visitors to confront our tendency to take resources for granted.
+
+This house eschews a traditional organization with rooms dedicated to specific functions for a composition of a loose stack of porous realms. The incarnation for Salone del Mobile 2017 creates an attractive living area for up to three people on a previously unused 50-square-meter urban plot.
+
+A modular metal frame forms the basic structure of Breathe, and a flexible, light-permeable outer skin of purifying fabric creates the boundary between inside and outside. A total of six potential rooms and a roof garden provide space for domestic experience both collective and private. A variety of atmospheres are made through the manipulation of light, air and water.
+
+Designed to be disassembled and reinstalled at other locations, the structure is mobile and adaptable. The fabric can be replaced to perform appropriately to a wide array of climates and environmental conditions.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 9_4-of-15.jpg
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_6-of-15.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_12-of-15.jpg
+  image_caption: view towards entrance
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_10-of-15.jpg
+  image_caption: kitchen
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_2-of-15.jpg
+  image_caption: living room
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_14-of-15.jpg
+  image_caption: view towards upper floors
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_13-of-15.jpg
+  image_caption: bathroom
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_15-of-15.jpg
+  image_caption: bedroom and bathroom
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_9-of-15.jpg
+  image_caption: interior detail
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 9_4-of-15.jpg
+  image_caption: terrace view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 10_11-of-15.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 11_Model_02_web.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 12Model_01_web.jpg
+  image_caption: model
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    13_20170328_MINI_01_diagram-edit-5-07.png
+  image_caption: axonometric view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: >
+    14_17005.C-04.0.Viste-generali_edit-3-01.png
+  image_caption: structural drawings
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 15_MINI_03_edit-2-09.png
+  image_caption: water collection diagram
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 16_2017-03-28_Press-Plans_edit-01.png
+  image_caption: ground floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 17_2017-03-28_Press-Plans_edit-03.png
+  image_caption: second floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 18_2017-03-28_Press-Plans_edit-02.png
+  image_caption: third floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 19_2017-03-28_Press-Plans_edit-04.png
+  image_caption: fourth floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 20_2017-03-28_Press-Plans_edit-05.png
+  image_caption: fifth floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: MINI Living
+
+----
+
+Location: Milan, Italy
+
+----
+
+Program: House prototype
+
+----
+
+Area-meters: 80
+
+----
+
+Area-feet: 860
+
+----
+
+Status: Completed April 2017
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ian Ollivier, Pietro Pagliaro, Isabel Sarasa, Iason Houssein, Alvaro Gomez-Selles-Fernandez
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+Fabricator: Xilografia Nuova Srl
+Photography: Laurian Ghinitoiu
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: MINI-Breathe2.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: party-wall, urban-fabrics, logan, tiny, blueprint-at-storefront, knoll-furniture-system

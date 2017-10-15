@@ -1,0 +1,204 @@
+Group-start-0: 
+
+----
+
+Title: Blueprint
+
+----
+
+Date: 2014-01-02
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+Blueprint at KAdE is a follow-up to a show Sebastiaan Bremer put together in 1999, in a DIY gallery in Chelsea, New York. The show brought together a bunch of young artists, ambitious and broke, trying to find their voice and an audience for their work. The original Blueprint show was conceived foremost as an opportunity to present this group’s work together as a whole.
+
+The next iteration of Blueprint invites many of the original Blueprint artists—as well as some others, and architects selected by SO – IL—to look back at their practice and identify one “fundamental” work: the first piece that could serve as a blueprint of their mature work. Again, this extended group is only bound by the same ‘silly’ constraint, yet one might be able to discover a set of affinities between the works. It would have been prohibitively expensive, in the current climate in the Netherlands, to show original work; instead, the exhibition will feature blueprints of or based on that “generative” work, as well as projections of several examples of the artist’s practice it sparked. This mode of exhibition also reflects the issues of the current art market: contemporary art is often seen and sold in a digital, compressed version, and the original work remains out of reach for most people—tucked away in warehouses, vaults and private collections. For BLUEPRINT at KAdE, the blueprints are exhibited on a scrap-wood display wall in the galleries, with images and video of the artists’ later works projected on the wall’s opposite side. It is our hope that when arts funding eventually recovers, we can recreate this show a third time, but with the original works instead of prints and digital files. In a sense, then, this show is a blueprint itself, for an exhibition about artistic growth and possibility—one we hope to realize soon.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_DSC4810-e1406903695214.jpg
+  image_caption: exterior view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_DSC4795.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_2U9B0099.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_2U9B0100.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 5_2U9B0103.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 6_2U9B0104.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 7_2U9B0111.jpg
+  image_caption: artwork
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 8_2U9B0121.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 9_2U9B0122.jpg
+  image_caption: exhibition view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: 
+
+----
+
+Location: Various
+
+----
+
+Program: Exhibition
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: Completed 2014
+
+----
+
+Team: Florian Idenburg, Jing Liu, Enzo Valerio, Lee Ann Custer
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Blueprint.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: dichroicarus, tricolonnade, meissen, zenith-nadir, pollination, transhistoria

@@ -1,0 +1,174 @@
+Group-start-0: 
+
+----
+
+Title: Syracuse Housing
+
+----
+
+Date: 2014-01-01
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# This is the entry in response to an invited competition for an affordable housing development project in Syracuse, New York called Freedom’s Gate. The project integrates low-income families with ex-convicts recently released from prison. What makes Freedom’s Gate a potential model for other prisoner-reentry developments is that it provides different dwelling types to help former convicts move towards living on their own. 
+
+The design comprises of shelters on the ground floor for men and women recently released from prison and 51-family units on the upper floors of the development for families of prisoners as well as low-income families in need of affordable housing. The design introduces the courtyard typology as a strong urban form in an otherwise bleak neighborhood dominated by “Tower in the Park” public housing projects, vacant lots, and a deli housed in a concrete bunker-like structure. With six stories at its highest point, the building has a strong presence along the street. Sloping the massing down to two floors on the opposite side of the courtyard creates a distinct massing. Through its rotation and form, the building turns to face all streets of the block, becoming a landmark for the entire neighborhood. In addition to the inner garden, multiple outdoor areas are formed by the unique building shape. These pocket parks are made safe through high visibility from the building and become zones for residents to interact with the larger community.
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: Syracuse_plans-01-min.png
+  image_caption: ground floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: Syracuse_plans-02-min.png
+  image_caption: typical floor plan
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 04_arial-g_3-_-no-people-min.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 02-entrance_no-people_2-min.jpg
+  image_caption: entrance view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: The Center for Community Alternatives & the Syracuse Housing Authority
+
+----
+
+Location: Syracuse, USA
+
+----
+
+Program: Supportive Housing, Recreation and Education spaces
+
+----
+
+Area-meters: 7.600
+
+----
+
+Area-feet: 82,000
+
+----
+
+Status: Competition 2013
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou, Ted Baab, Seunghyun Kang, Gilbert Berthold, Kevin Lamyuktseung, Andre Herrero, Danny Duong, Pietro Pagliaro
+
+----
+
+Deck: 
+
+----
+
+Collaborators: Architect of record:  Holmes, King, Kallquist & Associates
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: SO-IL_Syracuse.pdf
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: party-wall, tiny, chermayeff-house

@@ -1,0 +1,175 @@
+Group-start-0: 
+
+----
+
+Title: 2040 – The End of Fictionalism
+
+----
+
+Date: 2014-10-02
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# History unfolds as a series of events. Secondary stories coalesce and become a grand narrative, the history of a people, and the history of a place.
+
+The physical world we inhabit emerges from these various stories, incidents happenstance played out. Thousands of parallel histories exist, and as such, unlimited alternative realities. Each individual inhabits his own story. Form follows Fiction. 
+
+2040 – The End of Fictionalism, our submission for the Prix de Rome 2014 in the Netherlands, explores the possibility of fiction as a tool to develop future scenarios for the city center of Rotterdam.
+
+The entire text can be read (link: http://so-il.org/app/uploads/2014/10/Form-Follows-Fiction.pdf text: here).
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 5.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 20140912-0042_test-final.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: Foto-30-09-14-16-02-14.jpg
+  image_caption: ""
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Prix de Rome
+
+----
+
+Location: Rotterdam
+
+----
+
+Program: 
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: Final three, honorable mention
+
+----
+
+Team: Florian Idenburg, Pietro Pagliaro, Max Hart Nibbrig, Kerim Miskavi
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+Victor Verbeek
+Geoff Han
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: 

@@ -1,0 +1,176 @@
+Group-start-0: 
+
+----
+
+Title: Landscapes of the Hyperreal
+
+----
+
+Date: 2015-09-16
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+# In “Landscapes of the Hyperreal: Ábalos & Herreros selected by SO – IL,” Jing Liu and Florian Idenburg mine the archives of the Canadian Center for Architecture to offer a new perspective of the processes and products that compose the Spanish firm’s body of work.
+
+In the exhibition, SO – IL unearths a method of assemblage that allowed Ábalos & Herreros to develop landscapes with distinct architectural vocabularies and explore visual references unorthodox to the discipline.
+
+With a complementary installation, SO – IL provides visitors with an experiential parallel to the perceived artificiality of Ábalos & Herreros’ landscapes. Archival materials seemingly hover in glass casework whose very framework dissolves against a carpet of saturated hues. The patch-worked carpet was inspired by German artist Gerhard Richter’s Carpet “1025 Farben” which was used in the design of an exhibition by Ábalos & Herreros for the Third Biennial of Spanish Architecture and Urbanism (Madrid, 1996–97).
+
+----
+
+Group-end-0: 
+
+----
+
+Group-start-1: 
+
+----
+
+Featured-image: 
+
+----
+
+Featured-image-size: full_bleed
+
+----
+
+Featured-video: 
+
+----
+
+Featured-video-sound: 0
+
+----
+
+Featured-text-color: black
+
+----
+
+Featured-hide-caption: 0
+
+----
+
+Group-end-1: 
+
+----
+
+Group-start-2: 
+
+----
+
+Builder: 
+
+- 
+  image: 1_2015_09_08_MG_062.jpg
+  image_caption: Aerial view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 2_2015_09_08_MG_021.jpg
+  image_caption: Installation view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 3_SEB_8984.jpg
+  image_caption: Installation view
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+- 
+  image: 4_SEB_8998_color-match.jpg
+  image_caption: Glass casework
+  image_caption_color: black
+  image_fit_browser: "0"
+  _fieldset: projectimage
+
+----
+
+Group-end-2: 
+
+----
+
+Group-start-3: 
+
+----
+
+Client: Canadian Center for Architecture
+
+----
+
+Location: Montreal, Canada
+
+----
+
+Program: 
+
+----
+
+Area-meters: 
+
+----
+
+Area-feet: 
+
+----
+
+Status: Completed, 2015
+
+----
+
+Team: Florian Idenburg, Jing Liu, Ilias Papageorgiou and Molly Minot-Hubley
+
+----
+
+Deck: 
+
+----
+
+Collaborators: 
+
+----
+
+Press: 
+
+----
+
+Misc: 
+
+----
+
+Group-end-3: 
+
+----
+
+Group-start-4: 
+
+----
+
+Project-pdf: 
+
+----
+
+Group-end-4: 
+
+----
+
+Group-start-5: 
+
+----
+
+Related-meta: 
+
+----
+
+Group-end-5: 
+
+----
+
+Related: dichroicarus, wynwood-gateway-park, future-archeology
