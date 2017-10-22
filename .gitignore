@@ -30,3 +30,5 @@ Icon
 !/assets/avatars/index.html
 
 node_modules/*
+content/*
+content.zip

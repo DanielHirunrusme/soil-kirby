@@ -2,15 +2,19 @@ title: Home
 
 pages: false
 
+files: false
+
 fields:
   title:
     label: Title
     type:  text
 
-  intro:
-    label: Intro
-    type:  textarea
-
-  text:
-    label: Text
-    type:  textarea
+  featured_projects:
+    label: Featured Projects
+    type: relationship
+    options: query
+    query:
+      page: projects
+      fetch: children
+    search: true
+          

@@ -5,6 +5,7 @@ files: false
 pages:
   template:
       - project
+      - lecture
       - writing
       - publication
 
@@ -17,7 +18,7 @@ fields:
     label: Project Categories
     type: builder
     fieldsets:
-      projectcategry:
+      projectcategory:
         label: Project Category
         type: text
         fields:

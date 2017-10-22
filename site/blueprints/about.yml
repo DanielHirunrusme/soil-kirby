@@ -5,7 +5,7 @@ pages:
       - blog
       - default
 
-files: false
+files: true
 
 options: 
   template: false  

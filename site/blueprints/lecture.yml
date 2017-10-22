@@ -1,0 +1,35 @@
+title: Lecture
+
+files: false
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+
+  date:
+      label: Date
+      type: date
+      format: MM/DD/YYYY
+      width: 1/4
+  
+  venue:
+    label: Venue
+    type:  text
+  
+  location:
+    label: Location
+    type:  text
+  
+  text:
+    label: Text
+    type:  markdown
+  		tools:
+        - header1
+        - image
+        - link
+  			- orderedList
+  			- unorderedList

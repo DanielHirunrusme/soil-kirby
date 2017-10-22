@@ -4,14 +4,123 @@ body {
 
 h1, h2, h3, h4, h5, h6, p, a, select, input, label, textarea, span, time {
 	@include univers;
-	letter-spacing: initial !important;
-	word-spacing:initial;
 }
 
-span, time, a {
-	word-spacing:initial;
-}
 
 img, svg {
-  width:20%;
+  width:100%;
+  
 } 
+
+img, video, div {
+  display:block;
+}
+
+a {
+  color:$c-black;
+  text-decoration:none;
+  position:relative;
+  
+  &:visited, &:hover, &.active {
+    color:$c-black;
+    @include custom-underline;
+    outline:none;
+  }
+}
+
+li {
+  a {
+    line-height: .96296em;
+    margin-bottom: -.03704em;
+    
+    @include at-mobile {
+      line-height: $line-height;
+      margin-bottom:0;
+    }
+  }
+}
+
+
+
+h1, h2, h3, h4, h5, h6, p {
+  @include univers;
+  margin: 0 0 .8em;
+}
+
+.indent p, a.indent {
+  margin-left:1.75em !important;
+  text-indent:-1.75em !important;
+  display:block;
+  margin-bottom:0;
+}
+
+@mixin caption {
+  
+  @include univers-p;
+  
+}
+
+p {
+  max-width:700px;
+  
+}
+
+input, textarea {
+  
+  @include univers;
+  
+  background:none;
+  border:none;
+  display:block;
+  
+  &::placeholder {
+    color:$c-black;
+  }
+  
+  &:focus {
+    outline:none;
+  }
+
+}
+
+video, div {
+  &:focus {
+    outline:none;
+  }
+  
+}
+
+input[type="submit"] {
+  line-height:.95;
+  border-bottom: .14em solid #fff;
+  
+  &:hover {
+    border-bottom: .14em solid #000;
+  }
+}
+
+
+::selection {
+  //color:$c-white;
+  //background-color:$c-black;
+}
+
+img {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;      /* IE 10+ */
+    user-select: none;          /* Likely future */ 
+}
+
+
+.wordmark {
+  line-height:0 !important;
+  
+}
+.wordmark .hyphen {
+    margin: 0 .2em;
+    position: relative;
+    top: -.09em;
+    line-height:0;
+    
+}

@@ -1,0 +1,24 @@
+.news {
+  
+  article {
+    
+    margin-bottom:$line-height;
+    
+    &:last-child {
+      margin-bottom:0;
+      
+    }
+    
+    p {
+      
+      @include univers-p;
+      
+      a {
+        @include univers-p;
+      }
+      
+    }
+  
+  }
+
+}

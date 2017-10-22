@@ -1,4 +1,4 @@
-Title: Home
+Title: Homepage
 
 ----
 
@@ -7,3 +7,7 @@ Intro:
 ----
 
 Text: 
+
+----
+
+Featured-projects: kukje-galleryk3, bad-thoughts, frieze-art-fair, blueprint-at-storefront, jan-shrem-and-maria-manetti-shrem-museum-of-art, breathe-mini-living-salone-del-mobile-2017, tina-kim-gallery, logan, spiky, derek-lam-atelier, versace-showroom

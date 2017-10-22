@@ -1,31 +1,39 @@
 @font-face {
   font-family: 'soil-univers';
   src: url('../fonts/UniversLTPro-65Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/UniversLTPro-65Bold.woff') format('woff'), url('../fonts/UniversLTPro-65Bold.ttf')  format('truetype'), url('../fonts/UniversLTPro-65Bold.svg#UniversLTPro-65Bold') format('svg');
-  font-weight: normal;
+  font-weight: 700;
   font-style: normal;
 }
 
 
 @mixin univers {
   font-family: 'soil-univers', "Univers", Arial, Helvetica, sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: $font-size;
   line-height: $line-height;
   letter-spacing: _(1px);
   word-spacing: 0.04em;
   
   -webkit-font-smoothing: antialiased;
-  /*
+  
   @include at-vertical-phone {
     font-size: $font-size * 0.75;
+    -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+      -ms-hyphens: auto;
+      hyphens: auto;
   }
   
   @include at-horizontal-phone {
     font-size: $font-size * 0.75;
+    -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+      -ms-hyphens: auto;
+      hyphens: auto;
   }
   
   @include at-giant-screen {
     font-size: $font-size * 1.26;
   }
-  */
+  
 }

@@ -12,10 +12,10 @@
         <hr />
       </header>
       
-      <?php snippet('coverimage', $page) ?>
+      <?php //snippet('coverimage', $page) ?>
       
       <div class="text">
-        <?= $page->text()->kirbytext() ?>
+        <?= $page->text()->kt() ?>
       </div>
       
     </article>

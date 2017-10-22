@@ -37,12 +37,8 @@ fields:
   
   featured_image_size:
     label: Featured Image Size
-    type: select
-    default: full_bleed
-    width: 2/4
-    options:
-      contain: Contain
-      full_bleed: Full Bleed
+    label: Full Bleed?
+    type: checkbox
   
   featured_video:
     label: Featured Video
@@ -94,13 +90,13 @@ fields:
               black: Black
               white: White
           image_fit_browser:
-            label: Display this media to fit browser window?
+            label: Full Bleed?
             type: checkbox
             width: 2/4
      
       projectvideo:
         label: Video
-        snippet: sections/projectvideo
+        snippet: builder/projectvideo
         fields:
           video:
             label: Vimeo URL ID https://vimeo.com/(the ID)
@@ -120,7 +116,7 @@ fields:
               black: Black
               white: White
           video_fit_browser:
-            label: Display this media to fit browser window?
+            label: Full Bleed?
             type: checkbox
             width: 2/4
   

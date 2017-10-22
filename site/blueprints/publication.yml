@@ -16,6 +16,6 @@ fields:
       format: MM/DD/YYYY
       width: 1/4
 
-  publisher:
+  publication:
     label: Publisher
     type:  text

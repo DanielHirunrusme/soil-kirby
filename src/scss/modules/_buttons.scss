@@ -1,0 +1,17 @@
+button {
+  background:none;
+  border:none;
+  @include univers;
+  line-height: .96296em;
+  margin-bottom: -.03704em;
+  
+  &:hover {
+    @include custom-underline;
+  
+  }
+  
+  &:focus {
+    outline:none;
+  }
+
+}

@@ -5,6 +5,60 @@ body, html {
 }
 
 body {
+  min-width:$min-width;
+  
+  @include at-mobile {
+    min-width:auto;
+  }
+  
+  &.blur-content {
+    // really specific in order to override regular hover state
+    
+    
+    .main-nav li a {
+      border: none; 
+      
+    }
+     
+    nav a { 
+      @include do-blur;
+      
+      
+      &:hover {
+        @include nav-hover-state;
+        @include dont-blur;
+      } 
+    }
+    
+    .content, .related, .caption, button, .home-content {
+      @include do-text-blur;   
+      @include do-image-blur;
+     
+    }
+  }
+  
+  &.white-text {
+    color: white; 
+    
+    a, button, span {
+      color: white !important;
+      
+      &:after {
+        border-color: white;
+      }
+      
+      &:hover {
+        &:after {
+          border-color: white;
+        }
+      }
+    }
+    
+    .active,
+    .active a {
+      border-color: white;
+    }
+  }
   
 }
 

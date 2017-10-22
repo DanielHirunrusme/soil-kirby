@@ -1,0 +1,54 @@
+.banner {
+  @include container(banner);
+  position: absolute;
+  top: $body-padding;
+  left: 0;
+  right: 0;
+  z-index: 12000;
+  min-width:1048px;
+  
+  
+  
+  @include at-mobile {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: $body-padding;
+    width: 25%;
+    min-width:auto;
+    padding-right:0;
+    
+    
+    
+    .banner-inner {
+      float:left;
+    }
+    
+    
+  }
+  
+  .project & {
+    
+    width:auto;
+    
+    padding-right:$body-padding;
+    
+    @include at-mobile {
+      position:relative;
+    
+      .banner-inner {
+        float:none;
+      }
+    }
+  }
+  
+ 
+  .home & {
+    @include at-mobile {
+      width:100%;
+    }
+    
+  }
+  
+  
+}

@@ -94,10 +94,12 @@ $seven-columns: 77.7%;
 $eight-columns: 88.8%;
 $nine-columns:  99.9%; 
 
+
 $blur-modifier: 1;
 $default-blur: 10px * $blur-modifier;
 $image-blur: 24px * $blur-modifier;
 $white-blur-falloff: -2px * $blur-modifier;
+$blur: $default-blur;
 
 $cropping-enlargement: 1.2;
 

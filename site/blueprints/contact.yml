@@ -11,31 +11,34 @@ fields:
     label: Title
     type: title
   
-  intro:
-    label: Intro
+  office:
+    label: Office
     type: textarea
-    
-  contactoptions:
-    label: Contact Options
-    type: structure
-    style: table
-    fields:
-      title:
-        label: Title
-        type: text
-      icon:
-        label: Icon
-        type: image
-      text:
-        label: Text
-        type: text
-      url:
-        label: URL
-        type: text
-      linktext:
-        label: Link Text
-        type: text
+    width: 1/2
   
-  text:
-    label: Text
+  emails:
+    label: General
     type: textarea
+    width: 1/2
+  
+  line_1:
+    type: line
+  
+  social:
+    label: Social
+    type: textarea
+    width: 1/2
+  
+  newsletter:
+    label: Enable Newsletter?
+    type: checkbox
+    width: 1/2
+  
+  line_2:
+    type: line
+  
+  conctact_form:
+    label: Enable Contact Form?
+    type: checkbox
+    
+  

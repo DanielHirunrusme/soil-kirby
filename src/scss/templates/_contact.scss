@@ -1,0 +1,91 @@
+.contact {
+  
+  h1 {
+    @include custom-underline;
+    padding-bottom:$line-height/3;
+    margin-bottom:$line-height/2;
+    
+  }
+  
+  
+  article {
+    @include flexbox;
+    margin-bottom:1em;
+    
+    @include at-mobile {
+      @include flex-direction(column);
+      margin-bottom:0;
+    }
+   
+    &:last-child {
+      
+      
+    }
+    
+    div {
+      width:50%;
+      
+      @include at-mobile {
+        width:100%;
+        margin-bottom:1em;
+        
+      }
+      
+      p:last-child {
+        margin-bottom:0;
+        
+      }
+    }
+    
+    form {
+      width:100%;
+      
+      textarea {
+        width:100%;
+        margin-bottom:1em;
+        
+      }
+    }
+    
+    &.contact-article {
+      @include flex-direction(column);
+      
+    }
+    
+    .uniform-errors__item {
+      width:100%;
+      color:red;
+    }
+  
+  }
+  
+  .newsletter {
+    
+    @include at-mobile {
+      margin-top:-1em;
+    }
+    
+    
+    form {
+      display:none;
+      
+      &.show {
+        display:block;
+      }
+      
+      
+      
+      input[type="submit"] {
+        margin-top:1em;
+        display:inline-block;
+      }
+    }
+  }
+
+}
+
+.uniform__potty {
+    position: absolute;
+    left: -9999px;
+}
+

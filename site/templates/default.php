@@ -1,19 +1,32 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+<?php snippet('submenu') ?>
 
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
+<main class="content main" role="main" data-module-init="page">
+    
+  <div class="content-inner">
+    
+    <div class="block">
       
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
+      <div class="text">
+        
+        <div class="inner project-images">
+          
+          <?= filteredContent($page->text()->kirbytext()) ?>
+        
+        </div>
+        <!-- /inner -->
+    
+      </div>
+      <!-- /text -->
+      
     </div>
+    <!-- /block -->
+    
+  </div>
+  <!-- /content-inner -->
 
-  </main>
+</main>
+<!-- /content-main -->
 
 <?php snippet('footer') ?>

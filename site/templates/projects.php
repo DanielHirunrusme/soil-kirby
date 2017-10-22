@@ -1,19 +1,32 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+<?php snippet('projects-submenu') ?>
 
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->text()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
+<main class="content main" role="main" data-module-init="lazyload">
+    
+  <div class="content-inner">
+    
+    <div class="archive-posts">
       
-    <div class="wrap wide">    
-      <?php snippet('showcase') ?>
+      <div class="archive-posts-inner">
+        
+        <div class="inner">
+          
+          <?php snippet('showcase') ?>
+        
+        </div>
+        <!-- /inner -->
+    
+      </div>
+      <!-- /text -->
+      
     </div>
+    <!-- /block -->
+    
+  </div>
+  <!-- /content-inner -->
 
-  </main>
+</main>
+<!-- /content-main -->
 
 <?php snippet('footer') ?>
