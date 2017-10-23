@@ -13,7 +13,8 @@ module.exports = function( el ) {
     $imagesBtn = $('.images-btn'),
     body_padding = $('.dummy-box').height(),
     ot = $('.content-inner').position().top,
-    inner_padding = $('.related .inner').outerWidth() - $('.related .inner').width();
+    inner_padding = $('.related .inner').outerWidth() - $('.related .inner').width(),
+    scrollPos = 0;
     
 	init();
   
@@ -48,6 +49,9 @@ module.exports = function( el ) {
 	}
   
   function projectScroll(){
+    if($('body').hasClass('overview'))
+      scrollPos = $(window).scrollTop();
+    
     
     
     if ( $('.related .inner').height() > $window.height() - ot/2 )
@@ -140,6 +144,7 @@ module.exports = function( el ) {
     if(!$('body').hasClass('slideshow')) {
       slideshow.setBlock( $(e.currentTarget).index() );
       slideshow.showSlideshow();
+      console.log('scrollPos ' + scrollPos);
     }
     
   }
@@ -147,7 +152,9 @@ module.exports = function( el ) {
   function closeClick(e){
     if($('body').hasClass('slideshow')) {
       e.preventDefault();
-      slideshow.hideSlideshow()
+      slideshow.hideSlideshow();
+      console.log('scroll to ' + scrollPos);
+      $(window).scrollTop(scrollPos);
     }
     
   }

@@ -32,3 +32,13 @@ Icon
 node_modules/*
 content/*
 content.zip
+
+# Dotenv
+.env
+.env.*
+!.env.example
+
+/site/config/*
+!/site/config/config.php
+log/
+config/

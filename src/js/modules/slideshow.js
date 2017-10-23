@@ -78,6 +78,10 @@ var slideshow = module.exports = {
     
     slideshow.isSlick = true;
     
+    if (!$('body').hasClass('overview')) {
+      slideshow.switchTextColor();
+    }
+    
     $('.project-images .inner').slick({
       dots: false,
       arrows: true,
@@ -85,6 +89,12 @@ var slideshow = module.exports = {
       adaptiveHeight: false,
       infinite: false,
       mobileFirst: true
+    }).on('beforeChange', function(event, slick, currentSlide, nextSlide){
+      slideshow.currBlock = nextSlide;
+      if (!$('body').hasClass('overview')) {
+        slideshow.switchTextColor();
+      }
+      
     });
     
     slideshow.setCaptions();

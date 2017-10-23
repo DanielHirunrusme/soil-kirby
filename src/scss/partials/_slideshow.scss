@@ -387,8 +387,13 @@
     left: 0;
     
     background: transparent url('../images/arrow_left_black.svg') no-repeat scroll 0 0;
-     
+    background-size:contain;
     
+    .white-text & {
+      background: transparent url('../images/arrow_left_white.svg') no-repeat scroll 0 0;
+      background-size:contain;
+      
+    }
     
      
     left: 1.90741em;
@@ -427,7 +432,13 @@
 {
     right: 0;
     background: transparent url('../images/arrow_right_black.svg') no-repeat scroll 0 0;
-   
+    background-size:contain;
+    
+    .white-text & {
+      background: transparent url('../images/arrow_right_white.svg') no-repeat scroll 0 0;
+      background-size:contain;
+    }
+    
     right: 1.90741em;
     z-index: 10000;
     width: 1.07407em;

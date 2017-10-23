@@ -89,7 +89,7 @@
       
       <div class="block-holder">
       <?php
-      /*
+      
       $vimeoID = $project->featured_video();
       $vimeoData = vimeo_data($vimeoID);
     
@@ -99,7 +99,7 @@
         "data" => $vimeoData
       ), $vimeoID);
       
-        */
+        
       ?>
       </div>
       <!-- /block-holder -->
