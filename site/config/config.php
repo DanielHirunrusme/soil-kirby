@@ -25,6 +25,9 @@ c::set('cache.ignore', array(
   'contact'
 ));
 
+// relative links
+c::set('panel.stylesheet', 'assets/css/panel.css');
+
 function filteredContent($content){
   $content = str_replace("SO — IL", "<span class='wordmark'>SO<span class='hyphen'>–</span>IL</span>", $content);
   return $content;
