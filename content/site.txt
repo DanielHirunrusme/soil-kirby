@@ -11,3 +11,7 @@ Description:
 ----
 
 Copyright: 
+
+----
+
+Email: daniel@halfhalf.us

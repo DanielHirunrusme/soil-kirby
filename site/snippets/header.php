@@ -6,12 +6,55 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no" />
   
-  <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
+  <title><?= html_entity_decode($site->title()->html()) ?> | <?= $page->title()->html() ?></title>
   <meta name="description" content="<?= $site->description()->html() ?>">
   
   <link href="http://vjs.zencdn.net/6.2.8/video-js.css" rel="stylesheet">
   <!-- If you'd like to support IE8 -->
+  
+  <!--favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="<?= $site->url() ?>/assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="<?= $site->url() ?>/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="<?= $site->url() ?>/assets/images/favicon-16x16.png">
+  <link rel="manifest" href="<?= $site->url() ?>/assets/images/manifest.json">
+  <link rel="mask-icon" href="<?= $site->url() ?>/assets/images/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="theme-color" content="#ffffff">
+  
+  <?php
     
+  function getOGImage($page, $site){
+    
+    if($page->template() != 'project') {
+      return $site->url().'/assets/images/so-il-og.png';
+    } else {
+      
+      if($page->featured_image()->isNotEmpty()) {
+        return $page->image( $page->featured_image() )->url();
+        
+      } else {
+        foreach($page->builder()->toStructure() as $section) {
+          if ($section->image()->isNotEmpty()) {
+            return $page->image( $section->image() )->url();
+           
+          }
+        }
+      }
+      
+    
+    }
+    
+  }
+    
+  ?>
+  
+  
+  <!-- og meta -->
+  <meta property="og:url"                content="<?= $page->url() ?>" />
+  <meta property="og:type"               content="article" />
+  <meta property="og:title"              content="<?= html_entity_decode($site->title()->html()) ?> | <?= $page->title()->html() ?>" />
+  <meta property="og:description"        content="<?= strip_tags($page->text()->kt()) ?>" />
+  <meta property="og:image"              content="<?= getOGImage($page, $site) ?>" />
+  
 
   <?= css('assets/css/main.min.css') ?>
 

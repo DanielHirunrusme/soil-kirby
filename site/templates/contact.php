@@ -61,7 +61,7 @@
           <article class="contact-article">
             
             <form action="<?php echo $page->url() ?>" method="POST">
-               <input name="email" type="text" placeholder="Name:": value="<?php echo $form->old('name'); ?>">
+               <input name="name" type="text" placeholder="Name:": value="<?php echo $form->old('name'); ?>">
                <input name="email" type="email" placeholder="Email:": value="<?php echo $form->old('email'); ?>">
                <textarea rows="5" placeholder="Message:" name="message"><?php echo $form->old('message'); ?></textarea>
                <?php echo csrf_field(); ?>

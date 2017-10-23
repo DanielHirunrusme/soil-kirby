@@ -15,6 +15,10 @@ fields:
     label: Description
     type:  textarea
     
+  email:
+    label: Site Email (used for forms)
+    type:  email
+    
   copyright:
     label: Copyright
     type:  textarea

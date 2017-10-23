@@ -12,9 +12,12 @@ return function ($site, $pages, $page) {
    ]);
 
    if (r::is('POST')) {
+      
+     $to = $site->email()->isNotEmpty() ? $site->email() : 'daniel@halfhalf.us';
+     
       $form->emailAction([
-         'to' => 'daniel@halfhalf.us',
-         'from' => 'info@example.com',
+         'to' => $to,
+         'from' => 'info@so-il.org',
       ]);
    }
 
