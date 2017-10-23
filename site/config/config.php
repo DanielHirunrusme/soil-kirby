@@ -20,6 +20,10 @@ c::set('debug', true);
 c::set('cache', true);
 c::set('thumbs.memory', '512M');
 
+// don't cache the contact page so that the form can POST variables correctly with the Uniform plugin
+c::set('cache.ignore', array(
+  'contact'
+));
 
 function filteredContent($content){
   $content = str_replace("SO — IL", "<span class='wordmark'>SO<span class='hyphen'>–</span>IL</span>", $content);
