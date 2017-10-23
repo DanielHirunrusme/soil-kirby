@@ -4,6 +4,10 @@ use Uniform\Form;
 
 return function ($site, $pages, $page) {
    $form = new Form([
+     'name' => [
+         'rules' => ['required'],
+         'message' => 'Please enter your name',
+      ],
       'email' => [
          'rules' => ['required', 'email'],
          'message' => 'Email is required',
@@ -18,6 +22,7 @@ return function ($site, $pages, $page) {
       $form->emailAction([
          'to' => $to,
          'from' => 'info@so-il.org',
+         'subject' => '[Form Submission] '.$form->data('name').' | '.$form->data('email').'',
       ]);
    }
 
