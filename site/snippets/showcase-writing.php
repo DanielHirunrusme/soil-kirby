@@ -19,7 +19,7 @@
   $content = substr($content, 0, $pos);
   $content .= ' [..]';
   }
-  echo $content;
+  echo filteredContent($content);
   
   ?>
 </p>
@@ -34,7 +34,7 @@
   $content = substr($content, 0, $pos);
   $content .= ' [..]';
   }
-  echo $content;
+  echo filteredContent($content);
   
   ?>
 </p>
@@ -50,7 +50,7 @@
   $content = substr($content, 0, $pos);
   $content .= ' [..]';
   }
-  echo $content;
+  echo filteredContent($content);
   
   ?>
 </p>

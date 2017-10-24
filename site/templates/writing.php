@@ -14,8 +14,6 @@
             
           <?= filteredContent($page->text()->kirbytext()->smartypants()) ?>
           
-          <?= //makeFootnote($page->footnotes()->kirbytext()->smartypants()) ?>
-          
           <?php if (!$page->related()->empty()): ?>
             <div class="inner-related">
               <h4>Related</h4>
