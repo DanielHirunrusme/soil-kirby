@@ -29,16 +29,6 @@ fields:
       - unorderedlist
       - orderedlist
   
-  footnotes:
-    label: Footnotes
-    type:  markdown
-  		tools:
-        - header1
-        - image
-        - link
-  			- orderedList
-  			- unorderedList
-  
   related:
     label: Related Projects 
     type: relationship
