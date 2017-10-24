@@ -150,11 +150,11 @@ module.exports = function( el ) {
   }
   
   function closeClick(e){
-    if($('body').hasClass('slideshow')) {
-      e.preventDefault();
-      slideshow.hideSlideshow();
-      console.log('scroll to ' + scrollPos);
-      $(window).scrollTop(scrollPos);
+    if($('body').hasClass('overview')) {
+      //e.preventDefault();
+      //slideshow.hideSlideshow();
+      //console.log('scroll to ' + scrollPos);
+      //$(window).scrollTop(scrollPos);
     }
     
   }
