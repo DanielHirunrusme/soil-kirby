@@ -4,6 +4,18 @@
 
 <main class="content main" role="main">
     
+  <?php 
+      ini_set( 'display_errors', 1 );
+      error_reporting( E_ALL );
+      $from = "daniel@halfhalf.us";
+      $to = "daniel@halfhalf.us";
+      $subject = "PHP Mail Test script";
+      $message = "This is a test to check the PHP Mail functionality";
+      $headers = "From:" . $from;
+      mail($to,$subject,$message, $headers);
+      echo "Test email sent";
+  ?>  
+    
   <div class="content-inner">
     
     <div class="block">
@@ -60,7 +72,7 @@
           <h1>Contact Form</h1>
           <article class="contact-article">
             
-            <form action="<?php echo $page->url() ?>/#" method="POST">
+            <form action="<?php echo $page->url() ?>/" method="POST">
                <input name="name" type="text" placeholder="Name:": value="<?php echo $form->old('name'); ?>">
                <input name="email" type="email" placeholder="Email:": value="<?php echo $form->old('email'); ?>">
                <textarea rows="5" placeholder="Message:" name="message"><?php echo $form->old('message'); ?></textarea>
