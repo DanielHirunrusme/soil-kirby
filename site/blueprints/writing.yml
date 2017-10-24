@@ -31,12 +31,13 @@ fields:
   
   footnotes:
     label: Footnotes
-    type:  wysiwyg
-    buttons:
-      - anchor
-      - h1
-      - unorderedlist
-      - orderedlist
+    type:  markdown
+  		tools:
+        - header1
+        - image
+        - link
+  			- orderedList
+  			- unorderedList
   
   related:
     label: Related Projects 
