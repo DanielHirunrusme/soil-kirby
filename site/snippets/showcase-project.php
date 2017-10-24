@@ -26,7 +26,7 @@
                 <div class="controls"><button class="ignore-slideshow prev">Prev</button>, <button class="ignore-slideshow next">Next</button></div><!-- /controls -->
                 
                 <p>
-                  <span class="project-name <?php if($page->isHomePage()):?>caption-description<?php endif; ?>" data-original="<?= $project->title(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>"><?= $project->title(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>
+                  <span class="project-name <?php if($page->isHomePage()):?>caption-description<?php endif; ?>" data-original="<?= $project->title()->smartypants(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>"><?= $project->title()->smartypants(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>
                   </span>
                 </p>
                 
@@ -67,7 +67,7 @@
                   <div class="controls"><button class="ignore-slideshow prev">Prev</button>, <button class="ignore-slideshow next">Next</button></div><!-- /controls -->
                   
                   <p>
-                    <span class="project-name <?php if($page->isHomePage()):?>caption-description<?php endif; ?>" data-original="<?= $project->title(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>"><?= $project->title(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>
+                    <span class="project-name <?php if($page->isHomePage()):?>caption-description<?php endif; ?>" data-original="<?= $project->title()->smartypants(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>"><?= $project->title()->smartypants(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>
                     </span>
                   </p>
                 
@@ -111,7 +111,7 @@
                   <div class="controls"><button class="ignore-slideshow prev">Prev</button>, <button class="ignore-slideshow next">Next</button></div><!-- /controls -->
                 
                   <p>
-                    <span class="project-name <?php if($page->isHomePage()):?>caption-description<?php endif; ?>" data-original="<?= $project->title(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>"><?= $project->title(); ?><?php if(!$project->location()->empty() && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>
+                    <span class="project-name <?php if($page->isHomePage()):?>caption-description<?php endif; ?>" data-original="<?= $project->title()->smartypants(); ?><?php if(!$project->location()->empty()  && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>"><?= $project->title()->smartypants(); ?><?php if(!$project->location()->empty() && !$page->isHomePage()): ?>, <?= $project->location() ?><?php endif; ?>
                     </span>
                   </p>
                 

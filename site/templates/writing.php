@@ -11,8 +11,10 @@
         <div class="inner">
           
           <h1><?= $page->title() ?><?php if(!$page->location()->empty()): ?>, <?= $page->location() ?><?php endif; ?><?php if(!$page->publication()->empty()): ?>, <em><?= $page->publication() ?></em><?php endif; ?><?php if($page->date()!=null): ?>, <?= $page->date('F j, Y') ?><?php endif; ?></h1>
-          <?= filteredContent($page->text()->kirbytext()) ?>
+            
+          <?= filteredContent($page->text()->kirbytext()->smartypants()) ?>
           
+          <?= makeFootnote($page->footnotes()->kirbytext()->smartypants()) ?>
           
           <?php if (!$page->related()->empty()): ?>
             <div class="inner-related">

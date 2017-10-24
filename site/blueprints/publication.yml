@@ -7,7 +7,12 @@ pages: false
 fields:
   title:
     label: Title
-    type:  text
+    type:  wysiwyg
+    buttons:
+      - anchor
+      - h1
+      - unorderedlist
+      - orderedlist
     width: 3/4
 
   date:

@@ -175,15 +175,34 @@
     padding-left: _(36px);
     counter-reset: customcounter;
     
+    .writing & {
+      padding-left:0;
+      margin-top:2.5em;
+      display:block;
+    }
+    
     > li {
       counter-increment: customcounter;
       list-style:none;
+      
+      .writing & {
+        margin-bottom:1em;
+      }
       
       &:before {
         content: counter(customcounter) " ";
         float: left;
         width: _(36px);
         margin-left: _(-36px);
+        
+        .writing & {
+          float:none;
+          font-size:medium;
+          margin-left:0;
+          margin-right:.5em;
+          top: -.5em;
+          position: relative;
+        }
       }
     }
   }

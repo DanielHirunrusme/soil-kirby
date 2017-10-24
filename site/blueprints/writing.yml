@@ -22,13 +22,21 @@ fields:
   
   text:
     label: Text
-    type:  markdown
-  		tools:
-        - header1
-        - image
-        - link
-  			- orderedList
-  			- unorderedList
+    type:  wysiwyg
+    buttons:
+      - anchor
+      - h1
+      - unorderedlist
+      - orderedlist
+  
+  footnotes:
+    label: Footnotes
+    type:  wysiwyg
+    buttons:
+      - anchor
+      - h1
+      - unorderedlist
+      - orderedlist
   
   related:
     label: Related Projects 

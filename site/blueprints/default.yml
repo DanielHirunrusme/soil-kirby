@@ -1,5 +1,11 @@
 title: Page
 
+files: true
+  fields:
+    caption:
+      label: Caption
+      type: text
+
 fields:
   title:
     label: Title
@@ -7,10 +13,9 @@ fields:
 
   text:
     label: Text
-    type:  markdown
-  		tools:
-        - header1
-        - image
-        - link
-  			- orderedList
-  			- unorderedList
+    type:  wysiwyg
+    buttons:
+      - anchor
+      - h1
+      - unorderedlist
+      - orderedlist

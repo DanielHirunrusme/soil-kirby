@@ -20,6 +20,24 @@ c::set('debug', true);
 c::set('cache', true);
 c::set('thumbs.memory', '512M');
 
+c::set('field.wysiwyg.dragdrop.kirby', true);
+c::set('field.wysiwyg.dragdrop.medium', true);
+
+//typography quotes
+//c::set('typography.quotes', 'doubleCurled');
+c::set('smartypants', true);
+c::set('smartypants.attr', 3);
+c::set('smartypants.doublequote.open', '« ');
+c::set('smartypants.doublequote.close', ' »');
+c::set('smartypants.space.emdash', ' ');
+c::set('smartypants.space.endash', ' ');
+c::set('smartypants.space.colon', ' ');
+c::set('smartypants.space.semicolon', ' ');
+c::set('smartypants.space.marks', ' ');
+c::set('smartypants.space.frenchquote', ' ');
+c::set('smartypants.space.thousand', '');
+c::set('smartypants.space.unit', ' ');
+
 // don't cache the contact page so that the form can POST variables correctly with the Uniform plugin
 c::set('cache.ignore', array(
   'contact'
@@ -29,7 +47,27 @@ c::set('cache.ignore', array(
 c::set('panel.stylesheet', 'assets/css/panel.css');
 
 function filteredContent($content){
+  //$content = str_replace('"','&ldquo;',preg_replace('/(?<=[^A-Z0-9])"/i','&rdquo;',$content));
+  
   $content = str_replace("SO — IL", "<span class='wordmark'>SO<span class='hyphen'>–</span>IL</span>", $content);
+  
+  $content = str_replace("<span class=\"char--caps\">SO</span> – <span class=\"char--caps\">IL</span>", "<span class='wordmark'>SO<span class='hyphen'>–</span>IL</span>", $content);
+  
+  $pattern = '/\bSO\s?[\-\x{2013}\x{2014}]\s?IL(?!\.org)(?![\-_])\b/u';
+  $replacement = '<span class="wordmark">SO<span class="hyphen">&ndash;</span>IL</span>';
+  $content = preg_replace($pattern, $replacement, $content);
+  
+  
+  return $content;
+}
+
+function makeFootnote($content) {
+  
+  
+  if(is_numeric(substr($content, 0, 1))) {
+    $content .= 'yes';
+  }
+  
   return $content;
 }
 

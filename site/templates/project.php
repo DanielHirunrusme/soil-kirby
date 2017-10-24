@@ -13,7 +13,7 @@
           <h1 class="project-title"><?= $page->title() ?><?php if(!$page->location()->empty()): ?>, <?= $page->location() ?><?php endif; ?><?php if($page->date()!=null): ?>, <?= $page->date('Y') ?><?php endif; ?></h1>
             
             
-          <?= filteredContent($page->text()->kirbytext()) ?>
+          <?= filteredContent($page->text()->kirbytext()->smartypants()) ?>
           
           
           <?php if (!$page->related()->empty()): ?>
@@ -63,7 +63,7 @@
       </div>
       <!-- /text -->
       
-      <h1 class="mobile-project-title"><?= $page->title() ?><?php if(!$page->location()->empty()): ?>, <?= $page->location() ?><?php endif; ?><?php if($page->date()!=null): ?>, <?= $page->date('Y') ?><?php endif; ?></h1>
+      <h1 class="mobile-project-title"><?= $page->title()->smartypants() ?><?php if(!$page->location()->empty()): ?>, <?= $page->location() ?><?php endif; ?><?php if($page->date()!=null): ?>, <?= $page->date('Y') ?><?php endif; ?></h1>
         
       <div class="project-images">
         <!-- for mobile -->

@@ -24,4 +24,9 @@ fields:
   
   text:
     label: Text
-    type: textarea
+    type:  wysiwyg
+    buttons:
+      - anchor
+      - h1
+      - unorderedlist
+      - orderedlist

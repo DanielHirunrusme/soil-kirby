@@ -2,7 +2,7 @@
   
   
   <p>
-    <span class="project-name"><?= $project->title(); ?><?php if(!$project->publication()->empty()): ?>, <?= $project->publication() ?><?php if($project->date()!= null): ?>, <?= $project->date('F j, Y') ?><?php endif; ?><?php endif; ?>
+    <span class="project-name"><?= filteredContent( $project->title()->smartypants() ); ?><?php if(!$project->publication()->empty()): ?>, <?= $project->publication()->smartypants() ?><?php if($project->date()!= null): ?>, <?= $project->date('F j, Y') ?><?php endif; ?><?php endif; ?>
     </span>
   </p>
   
@@ -13,7 +13,7 @@
   <?php
 
   
-  $content = substr($project->text(), 0, 505);
+  $content = substr($project->text()->smartypants(), 0, 505);
   $pos = strrpos($content, " ");
   if ($pos>0) {
   $content = substr($content, 0, $pos);
@@ -28,7 +28,7 @@
   <?php
 
   
-  $content = substr($project->text(), 0, 300);
+  $content = substr($project->text()->smartypants(), 0, 300);
   $pos = strrpos($content, " ");
   if ($pos>0) {
   $content = substr($content, 0, $pos);
@@ -44,7 +44,7 @@
   <?php
 
   
-  $content = substr($project->text(), 0, 200);
+  $content = substr($project->text()->smartypants(), 0, 200);
   $pos = strrpos($content, " ");
   if ($pos>0) {
   $content = substr($content, 0, $pos);
