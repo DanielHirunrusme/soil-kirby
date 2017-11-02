@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>" class="cssfilters <?php if(s::get('device_class') == 'mobile'): ?>touch<?php endif; ?>">
+<html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>" class="cssfilters">
 <head>
 
   <meta charset="utf-8">

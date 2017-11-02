@@ -122,12 +122,29 @@ function slugify($text)
   return $text;
 }
 
+function checkMobile(){
+  if(s::get('device_class') == 'mobile'){
+    echo '<script type="text/javascript">var htmlElement = document.querySelector("html"); htmlElement.classList.add("touch");</script>';
+  }
+}
+
 c::set('routes', array(
+  
+  array(
+    'pattern' => '/',
+    'action' => function () {
+      checkMobile();
+      $page = page('/');
+      return site()->visit($page);
+    }
+  ),
+  
   array(
     'pattern' => 'info',
     'action' => function () {
       $page = page('info/about');
       if(!$page) $page = site()->errorPage();
+      checkMobile();
       return site()->visit($page);
      
     }
@@ -136,13 +153,14 @@ c::set('routes', array(
   array(
     'pattern' => 'info/(:any)',
     'action'  => function($uid) {
+      checkMobile();
       go($uid);
     }
   ),
   array(
     'pattern' => 'projects',
     'action' => function () {
-      
+      checkMobile();
       go('projects/selected');
      
     }
@@ -150,7 +168,7 @@ c::set('routes', array(
   array(
     'pattern' => 'projects/(:any)',
     'action'  => function($uid) {
-      
+      checkMobile();
       $project = page('projects/'.$uid);
       $page = page('projects');
       
@@ -178,7 +196,7 @@ c::set('routes', array(
       } else {
         // on project
         $url = page('projects')->url().'/'.s::get('project_link');
-        
+        checkMobile();
         //this creates a meta tag so we can cache the entire page while setting the correct link on the close button
         //plugins get loaded in kirby before page cache
         echo '<meta class="project_link" data-url="'.$url.'">';
@@ -192,7 +210,7 @@ c::set('routes', array(
       
       $project = page('projects/'.$uid);
       $page = page('projects');
-      
+      checkMobile();
       if(!$project) {
         // on category
         foreach($page->builder()->toStructure() as $section) {
@@ -218,9 +236,11 @@ c::set('routes', array(
     'action'  => function($uid) {
       
       $page = page('info/'.$uid);
-
+      checkMobile();
       if(!$page) $page = $uid;
       if(!$page) $page = site()->errorPage();
+      
+      
       
       return site()->visit($page);
 

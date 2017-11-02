@@ -2,10 +2,10 @@
   <ul class="inner">
     <?php if($page->template() != 'writing'):?>
       <li>
-        <a data-blur="content" class="images-btn active ignore-slideshow" href="<?= $page->url() ?>/images">Images</a>
+        <a data-blur="content" class="images-btn ignore-slideshow" href="<?= $page->url() ?>/images">Images</a>
       </li>
     <li>
-      <a data-blur="content" class="overview-btn ignore-slideshow" href="<?= $page->url() ?>/overview">Overview</a>
+      <a data-blur="content" class="overview-btn active ignore-slideshow" href="<?= $page->url() ?>/overview">Overview</a>
     </li>
    
     <?php endif; ?>
