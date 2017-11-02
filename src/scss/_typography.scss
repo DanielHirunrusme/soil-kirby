@@ -19,7 +19,7 @@ img, video, div {
 a {
   color:$c-black;
   text-decoration:none;
-  position:relative;
+  //position:relative;
   
   &:visited, &:hover, &.active {
     color:$c-black;

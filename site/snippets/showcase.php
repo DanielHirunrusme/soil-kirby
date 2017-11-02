@@ -13,7 +13,7 @@ if(count($uid) > 0) {
 
   foreach($page->builder()->toStructure() as $section) {
     
-    if( urlencode( strtolower( $section->projectcategorytitle() ) ) == $uid['uid']) {
+    if( slugify( $section->projectcategorytitle() )  == $uid['uid']) {
       
       $pArr = explode(", ", $section->projectcategoryprojects());
       

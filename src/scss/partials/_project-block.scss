@@ -1,7 +1,7 @@
 .project-block {
   
   .block-holder {
-    @include opacity(0);
+    //@include opacity(0);
     
     .projects &, .default &, .slick-slideshow & {
       @include opacity(1);
@@ -205,6 +205,11 @@
     
     .caption {
       height:100%;
+      
+      @include at-mobile {
+        top:0;
+        position:absolute;
+      }
       
       .caption-inner, .text {
         height:100%;

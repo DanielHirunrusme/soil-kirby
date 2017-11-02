@@ -95,6 +95,33 @@ function shrinkImage($file, $maxDimension = 1600) {
 }
 
 
+function slugify($text)
+{
+  // replace non letter or digits by -
+  $text = preg_replace('~[^\pL\d]+~u', '-', $text);
+
+  // transliterate
+  $text = iconv('utf-8', 'us-ascii//TRANSLIT', $text);
+
+  // remove unwanted characters
+  $text = preg_replace('~[^-\w]+~', '', $text);
+
+  // trim
+  $text = trim($text, '-');
+
+  // remove duplicate -
+  $text = preg_replace('~-+~', '-', $text);
+
+  // lowercase
+  $text = strtolower($text);
+
+  if (empty($text)) {
+    return 'n-a';
+  }
+
+  return $text;
+}
+
 c::set('routes', array(
   array(
     'pattern' => 'info',
@@ -131,10 +158,13 @@ c::set('routes', array(
       
         s::start();
         s::set('project_link', $uid);
-        
+        //echo 'on category';
         // on category
         foreach($page->builder()->toStructure() as $section) {
-          if( urlencode( strtolower( $section->projectcategorytitle() ) ) == $uid) {
+          //echo slugify( $section->projectcategorytitle() );
+          
+          if( slugify( $section->projectcategorytitle() ) == $uid) {
+            
             $data = array(
                 'uid' => $uid
               );
@@ -166,7 +196,7 @@ c::set('routes', array(
       if(!$project) {
         // on category
         foreach($page->builder()->toStructure() as $section) {
-          if( urlencode( strtolower( $section->projectcategorytitle() ) ) == $uid) {
+          if( slugify( $section->projectcategorytitle() ) == $uid) {
             $data = array(
                 'uid' => $uid
               );

@@ -55,11 +55,19 @@ var slideshow = module.exports = {
       $('.project-images .inner').slick('setPosition');
     }
     
-    $('.block-holder').addClass('loaded');
+    //$('.block-holder').addClass('loaded');
     
     
     $(window).on('resize', throttle(slideshow.winResize, 300));
     
+  },
+  
+  showMobileSlideshow: function(){
+    //slideshow.setCaptions();
+    //slideshow.setBackgrounds();
+    //slideshow.initControls();
+    slideshow.hideSlideshow();
+    //$('.project-images .inner').slick('setPosition');
   },
   
   initSlick: function(){

@@ -1,0 +1,16 @@
+body[data-uid="clients"] {
+  .text {
+    p, a, li {
+      margin-bottom:0;
+      @include univers;
+      a {
+        @include univers;
+        font-style:normal;
+        
+        &:hover {
+          font-style:italic !important;
+        }
+      }
+    }
+  }
+}

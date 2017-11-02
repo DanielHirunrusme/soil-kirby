@@ -238,6 +238,11 @@
     width: $five-columns;
     margin: 0 auto;
     
+    p {
+    
+      
+    }
+    
     @include at-mobile {
       width: inherit;
     }

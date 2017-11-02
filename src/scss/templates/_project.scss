@@ -32,6 +32,12 @@
         width:100%;
         order:1;
       }
+      
+      .project-title {
+        .touch & {
+          display:none;
+        }
+      }
         
       
       
@@ -70,11 +76,7 @@
   
   
   
-  .mobile-project-title {
-    display:none;
-    
-    
-  }
+  
   
   .project-images {
     width: 33.3%;
@@ -237,6 +239,18 @@
 
 }
 
+.mobile-project-title {
+  display:none;
+  
+  .touch & {
+    display:block;
+  }
+  
+  .slideshow & {
+    display:none;
+  }
+  
+}
 
 .project.overview {
   

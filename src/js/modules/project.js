@@ -31,12 +31,14 @@ module.exports = function( el ) {
     
       slideshow.init();
       slideshow.setBlocks( $('.project-block').toArray() );
-      slideshow.showSlideshow();
+      //slideshow.showSlideshow();
       
       if ( !$('html').hasClass('touch') ) {
         $('.project-block').on('click', projectBlockClick);
         $(window).on('scroll', projectScroll);
         projectScroll();
+      } else {
+        slideshow.showMobileSlideshow();
       }
     
       $(window).on('resize', winResize);
