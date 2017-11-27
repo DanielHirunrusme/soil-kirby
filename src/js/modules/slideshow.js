@@ -301,7 +301,7 @@ var slideshow = module.exports = {
     var ellipsis = Ellipsis({
       ellipsis: '[…]', //default ellipsis value
       debounce: 0, //if you want to chill out your memory usage on resizing
-      responsive: true, //if you want the ellipsis to move with the window resizing
+      responsive: false, //if you want the ellipsis to move with the window resizing
       class: '.caption-description', //default class to apply the ellipsis
       lines: 1, //default number of lines when the ellipsis will appear
       portrait: null, //default no change, put a number of lines if you want a different number of lines in portrait mode,
@@ -319,7 +319,7 @@ var slideshow = module.exports = {
       var ellipsis = Ellipsis({
         ellipsis: '[…]', //default ellipsis value
         debounce: 0, //if you want to chill out your memory usage on resizing
-        responsive: true, //if you want the ellipsis to move with the window resizing
+        responsive: false, //if you want the ellipsis to move with the window resizing
         class: '.caption-description', //default class to apply the ellipsis
         lines: 1, //default number of lines when the ellipsis will appear
         portrait: null, //default no change, put a number of lines if you want a different number of lines in portrait mode,
@@ -350,8 +350,13 @@ var slideshow = module.exports = {
   },
   
   winResize: function(){
-    if ($('body').hasClass('slideshow'))
+    if ($('body').hasClass('slideshow')) {
       slideshow.setBackgrounds();
+      slideshow.setCaptions();
+    } else {
+      slideshow.unsetCaptions();
+    }
+      
   },
   
   winWheel: function(e){

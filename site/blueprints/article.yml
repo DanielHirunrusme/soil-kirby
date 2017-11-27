@@ -1,5 +1,6 @@
 title: Article
-
+options:
+  preview: false
 pages: false
 
 fields:

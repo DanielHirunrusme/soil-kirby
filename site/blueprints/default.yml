@@ -1,5 +1,7 @@
 title: Page
-
+options:
+  preview: false
+  
 files: true
   fields:
     caption:

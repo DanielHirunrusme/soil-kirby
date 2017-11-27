@@ -1,9 +1,17 @@
 @font-face {
   font-family: 'soil-univers';
-  src: url('../fonts/UniversLTPro-65Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/UniversLTPro-65Bold.woff') format('woff'), url('../fonts/UniversLTPro-65Bold.ttf')  format('truetype'), url('../fonts/UniversLTPro-65Bold.svg#UniversLTPro-65Bold') format('svg');
+  src: url('../fonts/UniversLT-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/UniversLT-Bold.woff') format('woff'), url('../fonts/UniversLT-Bold.ttf')  format('truetype');
   font-weight: 700;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'soil-univers';
+  src: url('../fonts/UniversLT-BoldItalic.eot?#iefix') format('embedded-opentype'),  url('../fonts/UniversLT-BoldItalic.woff') format('woff'), url('../fonts/UniversLT-BoldItalic.ttf')  format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
 
 
 @mixin univers {

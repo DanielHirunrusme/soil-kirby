@@ -2,6 +2,9 @@ title: About page
 
 pages: false
 
+options:
+  preview: false
+
 icon: user
 
 preview: parent

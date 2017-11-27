@@ -5,6 +5,9 @@ files:
   
 pages: false
 
+options:
+  preview: false
+
 fields:
 
   title:

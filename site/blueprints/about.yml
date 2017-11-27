@@ -1,5 +1,7 @@
 title: About
-
+options:
+  preview: false
+  
 pages:
   template:
       - blog

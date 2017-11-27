@@ -2,6 +2,9 @@ title: Projects
 
 files: false
 
+options:
+  preview: false
+
 pages:
   sort: template desc
   limit: 500

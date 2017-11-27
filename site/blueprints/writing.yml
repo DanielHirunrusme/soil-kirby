@@ -2,6 +2,9 @@ title: Writing
 
 files: false
 
+options:
+  preview: false
+
 pages: false
 
 fields:

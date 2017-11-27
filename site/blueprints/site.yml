@@ -2,6 +2,9 @@ title: Site
 
 pages: default
 
+options:
+  preview: false
+
 fields:
   title:
     label: Title

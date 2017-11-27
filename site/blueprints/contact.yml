@@ -5,6 +5,7 @@ pages: false
 options: 
   delete: false
   status: false
+  preview: false
 
 fields: 
   title:
