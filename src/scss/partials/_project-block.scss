@@ -170,7 +170,7 @@
       }
       
       .block-holder, .video-positioner {
-        @include transform(scale(1.2));
+        @include transform(scale(1.1));
         
         @include at-mobile {
           @include transform(none);
