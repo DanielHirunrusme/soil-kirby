@@ -303,7 +303,7 @@ var slideshow = module.exports = {
       debounce: 0, //if you want to chill out your memory usage on resizing
       responsive: false, //if you want the ellipsis to move with the window resizing
       class: '.caption-description', //default class to apply the ellipsis
-      lines: 1, //default number of lines when the ellipsis will appear
+      lines: 2, //default number of lines when the ellipsis will appear
       portrait: null, //default no change, put a number of lines if you want a different number of lines in portrait mode,
       break_word: false //default the ellipsis can truncate words
     });
@@ -321,7 +321,7 @@ var slideshow = module.exports = {
         debounce: 0, //if you want to chill out your memory usage on resizing
         responsive: false, //if you want the ellipsis to move with the window resizing
         class: '.caption-description', //default class to apply the ellipsis
-        lines: 1, //default number of lines when the ellipsis will appear
+        lines: 2, //default number of lines when the ellipsis will appear
         portrait: null, //default no change, put a number of lines if you want a different number of lines in portrait mode,
         break_word: false //default the ellipsis can truncate words
       });
