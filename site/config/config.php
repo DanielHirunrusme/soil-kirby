@@ -74,6 +74,7 @@ function makeFootnote($content) {
 thumb::$defaults['blurpx'] = 100;
 
 // Shrink large images on upload
+/*
 kirby()->hook('panel.file.upload', 'shrinkImage');
 kirby()->hook('panel.file.replace', 'shrinkImage');
 function shrinkImage($file, $maxDimension = 1600) {
@@ -93,6 +94,7 @@ function shrinkImage($file, $maxDimension = 1600) {
     return response::error($e->getMessage());
   }
 }
+*/
 
 
 function slugify($text)
