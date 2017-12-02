@@ -31,7 +31,10 @@ module.exports = function( el ) {
     
       slideshow.init();
       slideshow.setBlocks( $('.project-block').toArray() );
-      //slideshow.showSlideshow();
+      
+      if ( $('body').hasClass('single-slideshow') ) {
+        slideshow.showSlideshow();
+      }
       
       if ( !$('html').hasClass('touch') ) {
         $('.project-block').on('click', projectBlockClick);

@@ -219,7 +219,9 @@
 
 .project-nav {
   .overview-btn {
-    
+    .single-slideshow & {
+      display:none;
+    }
   }
 
 }

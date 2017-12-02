@@ -59,7 +59,7 @@
   <?= css('assets/css/main.min.css') ?>
 
 </head>
-<body data-module-init="body blur-content hypher" class="<?php echo $page->template(); ?> <?php if($page->isHomePage()): ?>slideshow<?php endif; ?> <?php if($page->template() == 'project'): ?>overview<?php endif; ?>" data-uid="<?php echo $page->uid() ?>">
+<body data-module-init="body blur-content hypher" class="<?php echo $page->template(); ?> <?php if($page->isHomePage()): ?>slideshow<?php endif; ?> <?php if($page->template() == 'project'): ?><?php if( count($page->builder()->toStructure()) > 1 ): ?>overview<?php else: ?>slideshow single-slideshow<?php endif; ?><?php endif; ?>" data-uid="<?php echo $page->uid() ?>">
 
   <header class="banner container" role="banner">
     <div class="banner-inner">
