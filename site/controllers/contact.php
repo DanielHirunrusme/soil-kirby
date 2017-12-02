@@ -17,11 +17,11 @@ return function ($site, $pages, $page) {
 
    if (r::is('POST')) {
       
-     $to = $site->email()->isNotEmpty() ? $site->email() : 'daniel@halfhalf.us';
+      $to = $site->email()->isNotEmpty() ? $site->email() : 'daniel@halfhalf.us';
      
       $form->emailAction([
          'to' => $to,
-         'from' => 'info@so-il.org',
+         'from' => 'office@so-il.org',
          'subject' => '[Form Submission] '.$form->data('name').' | '.$form->data('email').'',
       ]);
    }
