@@ -125,20 +125,23 @@ var slideshow = module.exports = {
   },
   
   hideSlideshow: function(){
-    $('body').removeClass('slideshow black-text white-text');
-    $('body').addClass('overview');
-    $('.overview-btn').addClass('active');
-    $('.images-btn').removeClass('active');
+    if (!$('body').hasClass('single-slideshow')) {
+      $('body').removeClass('slideshow black-text white-text');
+      $('body').addClass('overview');
+      $('.overview-btn').addClass('active');
+      $('.images-btn').removeClass('active');
     
-    slideshow.unsetBackgrounds();
-    slideshow.destroyControls();
-    slideshow.unsetCaptions();
+      slideshow.unsetBackgrounds();
+      slideshow.destroyControls();
+      slideshow.unsetCaptions();
     
-    if(slideshow.isSlick) {
-      $('.project-images .inner').slick('setPosition');
+      if(slideshow.isSlick) {
+        $('.project-images .inner').slick('setPosition');
+      }
+    
+      $(window).off('resize', slideshow.winResize);
     }
     
-    $(window).off('resize', slideshow.winResize);
   },
   
   initControls: function(){
