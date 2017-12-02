@@ -177,6 +177,12 @@
       margin-bottom:0;
       
     }
+    
+    .indent {
+      p:last-child {
+        margin-bottom:.8em;
+      }
+    }
   
     @include at-mobile {
       width:100%;

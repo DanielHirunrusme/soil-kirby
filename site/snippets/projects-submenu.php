@@ -15,7 +15,7 @@
          $url = str_replace( '+' , '-', $url );
          $url = strtolower( $url );
        ?>
-       <li data-title="<?php echo $title; ?>"><a <?php if($uid['uid'] == $url): ?>class="active"<?php endif; ?> href="<?php echo $site->url().'/projects/'.$url; ?>"><?php echo $title; ?></a></li>
+       <li data-title="<?php echo $title; ?>"><a <?php if(isset($uid['uid'])):if($uid['uid'] == $url): ?>class="active"<?php endif; ?><?php else: if($title == 'All'): ?>class="active"<?php endif; endif; ?> href="<?php echo $site->url().'/projects/'.$url; ?>"><?php echo $title; ?></a></li>
        
        <?php //snippet('project/' . $section->_fieldset(), array('data' => $section, 'page' => $page)) ?>
      <?php endforeach ?>

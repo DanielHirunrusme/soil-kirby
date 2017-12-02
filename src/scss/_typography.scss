@@ -54,6 +54,12 @@ h1, h2, h3, h4, h5, h6, p {
   margin-bottom:0;
 }
 
+.indent p {
+  &:last-child {
+    margin-bottom:.8em;
+  }
+}
+
 @mixin caption {
   
   @include univers-p;

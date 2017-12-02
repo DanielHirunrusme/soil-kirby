@@ -77,20 +77,28 @@ module.exports = function( el ) {
     
     if ( $('.related .inner').height() > $('.project-images .container').height() && $('.related .inner').height() >  $('.text .inner').height() ) return false;
     
-    if ( $window.scrollTop() > $('.related .inner').height() - $window.height() + ot + body_padding) {
-      $('.related .inner').addClass('fixed').css('width', $('.related').width() - inner_padding)
+    if ( $('.related .inner').height() > $window.height() ) {
+      if ( $window.scrollTop() > $('.related .inner').height() - $window.height() + ot + body_padding) {
+        $('.related .inner').addClass('fixed').css('width', $('.related').width() - inner_padding)
+      } else {
+        $('.related .inner').removeClass('fixed').css('width', '');
+      }
     } else {
-      $('.related .inner').removeClass('fixed').css('width', '');
+      if ( $window.scrollTop() < ot - body_padding) {
+        $('.related .inner').removeClass('fixed').css('width', '').css('top', '');
+      }
     }
+    
+    
     
   }
   
   function scrollRelatedIn(){
     
-    if ( $window.scrollTop() > ot/2) {
-      $('.related .inner').addClass('fixed top').css('width', $('.related').width() - inner_padding)
+    if ( $window.scrollTop() > ot - body_padding) {
+      $('.related .inner').addClass('fixed top').css('width', $('.related').width() - inner_padding).css('top', body_padding)
     } else {
-      $('.related .inner').removeClass('fixed top').css('width', '');
+      $('.related .inner').removeClass('fixed top').css('width', '').css('top', '');
     }
     
   }
@@ -99,17 +107,23 @@ module.exports = function( el ) {
     
     if ( $('.text .inner').height() > $('.related .inner').height() && $('.text .inner').height() >  $('.project-images .container').height() ) return false;
     
-    if ( $window.scrollTop() > $('.text .inner').height() - $window.height() + ot + body_padding) {
-      $('.text .inner').addClass('fixed').css('width', $('.text').width() - inner_padding)
+    if ( $('.text .inner').height() > $window.height() ) {
+      if ( $window.scrollTop() > $('.text .inner').height() - $window.height() + ot + body_padding) {
+        $('.text .inner').addClass('fixed').css('width', $('.text').width() - inner_padding)
+      } else {
+        $('.text .inner').removeClass('fixed top').css('width', '');
+      }
     } else {
-      $('.text .inner').removeClass('fixed top').css('width', '');
+      if ( $window.scrollTop() < ot - body_padding) {
+        $('.text .inner').removeClass('fixed').css('width', '');
+      }
     }
     
   }
   
   function scrollOverviewTextIn(){
     
-    if ( $window.scrollTop() > ot/2 ) {
+    if ( $window.scrollTop() > ot - body_padding ) {
       $('.text .inner').addClass('fixed top').css('width', $('.text').width() - inner_padding)
     } else {
       $('.text .inner').removeClass('fixed top').css('width', '');
@@ -175,6 +189,9 @@ module.exports = function( el ) {
   
   
   function winResize(){
+    body_padding = $('.dummy-box').height();
+    ot = $('.content-inner').position().top;
+    inner_padding = $('.related .inner').outerWidth() - $('.related .inner').width();
     
     if(!$('body').hasClass('slideshow') && !$('html').hasClass('slideshow')){
       projectScroll();

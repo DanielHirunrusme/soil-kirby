@@ -17,7 +17,7 @@ for more information: http://getkirby.com/license
 
 c::set('license', 'put your license key here');
 c::set('debug', true);
-c::set('cache', true);
+c::set('cache', false);
 c::set('thumbs.memory', '512M');
 
 c::set('field.wysiwyg.dragdrop.kirby', true);

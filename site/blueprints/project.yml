@@ -169,6 +169,7 @@ fields:
   misc:
     label: Miscellaneous
     type: structure
+    style: table
     entry: >
     fields:
       misc_title:

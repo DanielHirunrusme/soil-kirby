@@ -17,6 +17,8 @@ var slideshow = module.exports = {
   lock: 0,
   isSlick: false,
   slickSlider: null,
+  timerInt: null,
+  timerTimeout: null,
 
 
   init: function(){
@@ -50,6 +52,7 @@ var slideshow = module.exports = {
     slideshow.setCaptions();
     slideshow.setBackgrounds();
     slideshow.initControls();
+    slideshow.initTimer();
     
     if(slideshow.isSlick) {
       $('.project-images .inner').slick('setPosition');
@@ -60,6 +63,17 @@ var slideshow = module.exports = {
     
     $(window).on('resize', throttle(slideshow.winResize, 300));
     
+  },
+  
+  initTimer: function(){
+    slideshow.timerInt = setInterval(slideshow.nextBlock, 4000);
+  },
+  
+  pauseTimer: function(){
+    console.log('pauseTimer');
+    clearInterval(slideshow.timerInt);
+    clearTimeout(slideshow.timerTimeout);
+    slideshow.timerTimeout = setTimeout(slideshow.initTimer, 8000);
   },
   
   showMobileSlideshow: function(){
@@ -167,10 +181,12 @@ var slideshow = module.exports = {
   },
   
   prevClick: function(){
+    slideshow.pauseTimer();
     slideshow.prevBlock();
   },
   
   nextClick: function(){
+    slideshow.pauseTimer();
     slideshow.nextBlock();
   },
   
@@ -341,9 +357,11 @@ var slideshow = module.exports = {
     if ($(e.target).hasClass('ignore-slideshow')) return true;
     
     if (e.clientX < $(window).width()/2) {
+      slideshow.pauseTimer();
       slideshow.prevBlock();
       
     } else {
+      slideshow.pauseTimer();
       slideshow.nextBlock();
       
     }
