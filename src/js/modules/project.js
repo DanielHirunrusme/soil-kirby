@@ -57,7 +57,7 @@ module.exports = function( el ) {
     if($('body').hasClass('overview'))
       scrollPos = $(window).scrollTop();
     
-    
+    console.log('project scroll')
     
     if ( $('.related .inner').height() > $window.height() - ot/2 )
       scrollRelatedOut();

@@ -278,12 +278,39 @@
   line-height: 1.18em;
   letter-spacing:.02em;
   
+  @include at-vertical-phone {
+    font-size: $font-size * 0.75;
+    -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+      -ms-hyphens: auto;
+      hyphens: auto;
+  }
+  
+  @include at-horizontal-phone {
+    font-size: $font-size * 0.75;
+    -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+      -ms-hyphens: auto;
+      hyphens: auto;
+  }
+  
   .wordmark, span {
     font-size: 22px;
     line-height: 1.18em;
     letter-spacing:.02em;
     
+    @include at-mobile {
+      font-size:16px;
+      line-height: 1.25em;
+      -webkit-hyphens: auto;
+        -moz-hyphens: auto;
+        -ms-hyphens: auto;
+        hyphens: auto;
+    }
+    
   }
+  
+  
   
   a {
     font-style:italic;
