@@ -37,6 +37,12 @@ module.exports = function( el ) {
     //options.autoplay = true;
     options.controls = true;
     
+    $('.play-button').on('click', function(){
+      console.log('play mobile video');
+      player.play();
+      player.requestFullscreen();
+    });
+    
     var player = videojs(vidID, options, function onPlayerReady() {
       videojs.log('Your player is ready!');
       
@@ -44,11 +50,7 @@ module.exports = function( el ) {
       
       var _p = this;
       
-      $('.play-button').on('click', function(){
-        console.log('play mobile video');
-        player.play();
-        player.requestFullscreen();
-      });
+      
       
       this.options.poster = $el.data('poster');
       
