@@ -44,7 +44,7 @@ module.exports = function( el ) {
       
       $('.play-button').on('click', function(){
         console.log('play mobile video');
-        this.play();
+        player.play();
       });
       
       this.options.poster = $el.data('poster');
