@@ -14,7 +14,7 @@
 
 .for-mobile {
   @include at-mobile {
-    display:block !important;
+    //display:block;
   }
 }
 
@@ -34,4 +34,10 @@
   text-indent: -9999px;
   -webkit-transform: translate3d(0,0,0);
   display:none;
+  
+  .single-slideshow & {
+    @include at-mobile {
+      display:block;
+    }
+  }
 }

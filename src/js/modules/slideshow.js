@@ -54,8 +54,9 @@ var slideshow = module.exports = {
     if(!$('body').hasClass('single-slideshow')) {
       slideshow.initTimer();
       slideshow.setCaptions();
-      
       slideshow.initControls();
+    } else {
+      slideshow.initMobileVideo();
     }
     
     
@@ -79,6 +80,10 @@ var slideshow = module.exports = {
     clearInterval(slideshow.timerInt);
     clearTimeout(slideshow.timerTimeout);
     slideshow.timerTimeout = setTimeout(slideshow.initTimer, 8000);
+  },
+  
+  initMobileVideo: function(){
+    
   },
   
   showMobileSlideshow: function(){

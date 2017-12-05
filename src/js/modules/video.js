@@ -29,7 +29,7 @@ module.exports = function( el ) {
     
     $el.find('video').attr('src', hd_source)
     
-    return true;
+    //return true;
     
     var options = {};
     videojs.options.autoplay = true;
@@ -41,6 +41,11 @@ module.exports = function( el ) {
       videojs.log('Your player is ready!');
       
       //player.controls = false;
+      
+      $('.play-button').on('click', function(){
+        console.log('play mobile video');
+        this.play();
+      });
       
       this.options.poster = $el.data('poster');
       
@@ -60,7 +65,9 @@ module.exports = function( el ) {
       console.log(hd_source)
       
       $el.find('video').attr('src', hd_source)
-    
+      
+      
+      
     
       
       /*
