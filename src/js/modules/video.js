@@ -37,7 +37,12 @@ module.exports = function( el ) {
     //options.autoplay = true;
     options.controls = true;
     
-    $('.play-button').on('click', function(){
+    $('.video-positioner').on('click', function(){
+      console.log('mousedown')
+    })
+    
+    $('.play-button').on('click mouseup touchdown', function(e){
+      e.stopPropagation();
       console.log('play mobile video');
       player.play();
       player.requestFullscreen();
