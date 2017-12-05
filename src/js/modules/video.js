@@ -42,9 +42,11 @@ module.exports = function( el ) {
       
       //player.controls = false;
       
+      var _p = this;
+      
       $('.play-button').on('click', function(){
         console.log('play mobile video');
-        player.play();
+        _p.play();
       });
       
       this.options.poster = $el.data('poster');
