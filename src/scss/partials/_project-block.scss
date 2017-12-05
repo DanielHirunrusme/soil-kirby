@@ -147,6 +147,15 @@
       }
     }
     
+    .video-positioner {
+      @include at-mobile {
+        width:100vw !important;
+        height:100vh !important;
+        top:0 !important;
+        left:0 !important;
+      }
+    }
+    
     &[data-fit-browser="1"] {
       
       .block-holder {
@@ -205,6 +214,8 @@
     
     .caption {
       height:100%;
+      
+      
       
       @include at-mobile {
         top:0;
@@ -343,4 +354,11 @@
   
 }
 
+
+
+.single-slideshow {
+  .caption {
+    pointer-events:none;
+  }
+}
 

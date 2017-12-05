@@ -13,8 +13,9 @@
     
     $vimeoData = vimeo_data($vimeoID);
     
+    
     video_player(array(
-      "sound" => $data->video_sound(),
+      "sound" => $data->video_sound()->bool(),
       "full_bleed" => $data->video_fit_browser()->bool(),
       "data" => $vimeoData
     ), $vimeoID);

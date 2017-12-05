@@ -94,7 +94,7 @@
       $vimeoData = vimeo_data($vimeoID);
     
       video_player(array(
-        "sound" => $project->featured_video_sound(),
+        "sound" => false,
         "full_bleed" => 0,
         "data" => $vimeoData
       ), $vimeoID);

@@ -49,10 +49,15 @@ var slideshow = module.exports = {
     
     
     
-    slideshow.setCaptions();
     slideshow.setBackgrounds();
-    slideshow.initControls();
-    slideshow.initTimer();
+    
+    if(!$('body').hasClass('single-slideshow')) {
+      slideshow.initTimer();
+      slideshow.setCaptions();
+      
+      slideshow.initControls();
+    }
+    
     
     if(slideshow.isSlick) {
       $('.project-images .inner').slick('setPosition');
