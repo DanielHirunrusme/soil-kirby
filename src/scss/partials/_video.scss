@@ -11,3 +11,27 @@
     background:$c-white;
   }
 }
+
+.for-mobile {
+  @include at-mobile {
+    display:block !important;
+  }
+}
+
+.play-button {
+  background: transparent url(../images/play_black.svg) no-repeat scroll 0 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 10000;
+  width: 2em;
+  height: 2em;
+  -webkit-background-size: 2em 2em;
+  background-size: 2em 2em;
+  margin-top: -1em;
+  margin-left: -1em;
+  overflow: hidden;
+  text-indent: -9999px;
+  -webkit-transform: translate3d(0,0,0);
+  display:none;
+}
