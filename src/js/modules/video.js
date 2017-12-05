@@ -35,7 +35,7 @@ module.exports = function( el ) {
     videojs.options.autoplay = true;
     //options.muted = true;
     //options.autoplay = true;
-    //options.controls = false;
+    options.controls = true;
     
     var player = videojs(vidID, options, function onPlayerReady() {
       videojs.log('Your player is ready!');
@@ -46,7 +46,8 @@ module.exports = function( el ) {
       
       $('.play-button').on('click', function(){
         console.log('play mobile video');
-        _p.play();
+        player.play();
+        player.requestFullscreen();
       });
       
       this.options.poster = $el.data('poster');
