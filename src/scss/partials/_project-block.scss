@@ -87,16 +87,7 @@
     
     
     
-    .default &, .blog & {
-      
-      width:40%;
-      float:left;
-      
-      .caption-inner 
-        margin-left:0;
-      }
     
-    }
     
     .slideshow & {
       width:100%;
@@ -108,15 +99,18 @@
     }
     
     .caption-inner {
-      margin-left:1.16em;
+      //margin-left:1.16em;
     }
     
     .default &, .blog & {
       
+      width:40%;
+      float:left;
       
       .caption-inner {
-        margin-left:0; 
+        margin-left:1.16em;
       }
+    
     }
     
     .slick-slideshow & {
@@ -218,7 +212,7 @@
       }
       
       .block-holder, .video-positioner {
-        @include transform(scale(1.1));
+        @include transform(scale(1.2));
         
         @include at-mobile {
           @include transform(none);

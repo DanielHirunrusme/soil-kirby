@@ -12,7 +12,7 @@
         
         <div class="inner project-images">
           
-          <?= filteredContent($page->text()->kirbytext()) ?>
+          <?= filteredContent($page->text()->kt()) ?>
         
         </div>
         <!-- /inner -->
