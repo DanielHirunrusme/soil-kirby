@@ -23,11 +23,26 @@
              <?php if($image = $subpage->coverimage()->toFile()): ?>
                <figure>
                  <img src="<?= $image->url() ?>" alt="" />
+                 
+                 <?php if($caption = $subpage->coverimagecaption()): ?>
+                   <figcaption><?= $caption ?></figcaption>
+                 <?php endif; ?>
                </figure>
              <?php endif ?>
              
              
-              <?php echo html($subpage->text()->kt()) ?>
+              <?= $subpage->text()->kt() ?>
+              
+              
+              
+                <?php foreach($subpage->documents()->filterBy('extension', 'pdf') as $pdf): ?>
+                <p>
+                  <a href="<?php echo $pdf->url() ?>" target="_blank">
+                    Full Press Release
+                  </a>
+                </p>
+                <?php endforeach ?>
+                
                 
             </article>
             <!-- /article -->

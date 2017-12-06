@@ -178,8 +178,6 @@ fields:
       misc_text:
         label: Misc Text
         type: textarea
-
-
     
   project_pdf:
     label: Project PDF

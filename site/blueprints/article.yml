@@ -7,12 +7,7 @@ fields:
   title:
     label: Title
     type:  title
-    
-  coverimage:
-    label: Cover Image
-    type: image
-    width: 1/2
-    
+  
   date:
     icon: calendar
     label: Date
@@ -21,13 +16,34 @@ fields:
     placeholder: Select a date…
     default: today
     required: true
+    
+  coverimage:
+    label: Cover Image
+    type: image
     width: 1/2
-  
+    
+  coverimagecaption:
+    label: Cover Image Caption
+    type:  wysiwyg
+    buttons:
+      - anchor
+      - h1
+      - italic
+      - unorderedlist
+      - orderedlist
+    width: 1/2
+    
   text:
     label: Text
     type:  wysiwyg
     buttons:
       - anchor
       - h1
+      - italic
       - unorderedlist
       - orderedlist
+  
+  pressrelease:
+    label: Press Release PDF
+    type: select
+    options: documents
