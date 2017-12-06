@@ -85,8 +85,18 @@
   
   .caption {
     
-    width:40%;
-    float:left;
+    
+    
+    .default &, .blog & {
+      
+      width:40%;
+      float:left;
+      
+      .caption-inner 
+        margin-left:0;
+      }
+    
+    }
     
     .slideshow & {
       width:100%;
@@ -99,9 +109,13 @@
     
     .caption-inner {
       margin-left:1.16em;
+    }
+    
+    .default &, .blog & {
       
-      @include at-mobile {
-       margin-left:0; 
+      
+      .caption-inner {
+        margin-left:0; 
       }
     }
     

@@ -29,7 +29,7 @@ module.exports = function( el ) {
     
     $el.find('video').attr('src', hd_source)
     
-    //return true;
+    return true;
     
     var options = {};
     videojs.options.autoplay = true;
