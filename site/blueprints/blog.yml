@@ -4,7 +4,6 @@ files: false
 
 pages:
   template: article
-  sort: flip
   num: date
 
 options: 
