@@ -25,13 +25,13 @@
                  <img src="<?= $image->url() ?>" alt="" />
                  
                  <?php if($caption = $subpage->coverimagecaption()): ?>
-                   <figcaption><?= $caption->kt() ?></figcaption>
+                   <figcaption><?= filteredContent($caption->kt()) ?></figcaption>
                  <?php endif; ?>
                </figure>
              <?php endif ?>
              
              
-              <?= $subpage->text()->kt() ?>
+              <?= filteredContent($subpage->text()->kt()) ?>
               
               
               
