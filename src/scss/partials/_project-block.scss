@@ -113,6 +113,11 @@
     
     }
     
+    .default.slideshow &, .blog.slideshow & {
+      float:none;
+      width:100%;
+    }
+    
     .slick-slideshow & {
       position:absolute;
     }
