@@ -31,7 +31,7 @@
              <?php endif ?>
              
              
-              <?= filteredContent($subpage->text()->kt()) ?>
+               <?= filteredContent($subpage->text()->kt()) ?>
               
               
               

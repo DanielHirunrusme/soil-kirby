@@ -110,7 +110,7 @@
      
       float: left;
       margin-right: 1.16em;
-      width: 70%;
+      width: 60%;
       
       @include at-mobile {
         width:100%;
@@ -124,7 +124,7 @@
     }
     
     .block-holder {
-      width:70%;
+      width:60%;
       margin-right: 1.16em;
       
       @include at-mobile {
