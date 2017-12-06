@@ -12,6 +12,7 @@
         <hr />
       </header>
       
+      cover image
       <?php snippet('coverimage', $page) ?>
       
       <div class="text">

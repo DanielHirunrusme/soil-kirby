@@ -14,9 +14,19 @@
 
             <?php foreach($page->children()->sortBy('date', 'desc') as $subpage): ?>
             <article class="article">
-                
-                <h1><?php echo html($subpage->date('F d Y')) ?><br><?php echo html($subpage->title()) ?></h1>
               
+              
+                
+              <h1><?php echo html($subpage->date('F d Y')) ?><br><?php echo html($subpage->title()) ?></h1>
+  
+              
+             <?php if($image = $subpage->coverimage()->toFile()): ?>
+               <figure>
+                 <img src="<?= $image->url() ?>" alt="" />
+               </figure>
+             <?php endif ?>
+             
+             
               <?php echo html($subpage->text()->kt()) ?>
                 
             </article>
