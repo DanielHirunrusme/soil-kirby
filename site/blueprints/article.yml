@@ -25,7 +25,7 @@ fields:
   
   text:
     label: Text
-    type:  wysiwyg
+    type:  textarea
     buttons:
       - anchor
       - h1
