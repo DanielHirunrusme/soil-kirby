@@ -5,6 +5,8 @@ files: false
 pages:
   template: article
   num: date
+  sort: date desc
+  limit: 500
 
 options: 
   template: false

@@ -25,7 +25,7 @@
                  <img src="<?= $image->url() ?>" alt="" />
                  
                  <?php if($caption = $subpage->coverimagecaption()): ?>
-                   <figcaption><?= $caption ?></figcaption>
+                   <figcaption><?= $caption->kt() ?></figcaption>
                  <?php endif; ?>
                </figure>
              <?php endif ?>
