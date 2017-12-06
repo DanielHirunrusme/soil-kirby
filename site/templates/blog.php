@@ -17,7 +17,7 @@
               
               
                 
-              <h1><?php echo html($subpage->date('F j, Y')) ?><br><?php echo html($subpage->title()) ?></h1>
+              <h1><?php echo html($subpage->date('F j, Y')) ?><br><?php echo filteredContent($subpage->title()) ?></h1>
   
               
              <?php if($image = $subpage->coverimage()->toFile()): ?>
