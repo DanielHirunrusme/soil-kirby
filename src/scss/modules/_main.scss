@@ -109,7 +109,7 @@
           display: block;
      
       float: left;
-      margin-right: 1.16em;
+      
       width: 60%;
       
       @include at-mobile {
@@ -138,8 +138,22 @@
     }
     
     figcaption {
+      float:left;
       @include univers-p;
+      width:40%;
       
+      @include at-mobile {
+       width:100%;
+      }
+      
+      p {
+        margin-left: 1.16em;
+        
+        @include at-mobile {
+         margin-left:0;
+        }
+      }
+        
       @include at-mobile {
         margin-top:.5em;
       }

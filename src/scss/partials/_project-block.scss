@@ -85,6 +85,26 @@
   
   .caption {
     
+    width:40%;
+    float:left;
+    
+    .slideshow & {
+      width:100%;
+      float:none;
+    }
+    
+    @include at-mobile {
+     width:100%; 
+    }
+    
+    .caption-inner {
+      margin-left:1.16em;
+      
+      @include at-mobile {
+       margin-left:0; 
+      }
+    }
+    
     .slick-slideshow & {
       position:absolute;
     }
@@ -96,6 +116,7 @@
     
     .caption-description {
       @include univers-p;
+      
       
         @include at-mobile {
           margin-top:.5em;
