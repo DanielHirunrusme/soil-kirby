@@ -2,6 +2,8 @@ title: Article
 options:
   preview: false
 pages: false
+files:
+    size: 12000000
 
 fields:
   title:
