@@ -1,4 +1,4 @@
-<?php if(!$data->image()->empty() && $data->image() != null): ?>
+<?php if(!$data->image()->empty() && $page->image($data->image()) != null): ?>
 <div data-text-color="<?= $data->image_caption_color() ?>" data-fit-browser="<?php echo $data->image_fit_browser() ?>" data-ratio="<?php echo $page->image($data->image())->width()/$page->image($data->image())->height() ?>" class="project-block <?php if(isset($index)):?> <?php if($index == 0): ?>first active<?php endif; ?><?php endif; ?>">
   
     
