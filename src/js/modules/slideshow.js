@@ -52,7 +52,9 @@ var slideshow = module.exports = {
     slideshow.setBackgrounds();
     
     if(!$('body').hasClass('single-slideshow')) {
-      slideshow.initTimer();
+      if(!$(slideshow.blocks[slideshow.currBlock]).hasClass('video-block')) {
+        slideshow.initTimer();
+      }
       slideshow.setCaptions();
       slideshow.initControls();
     } else {
@@ -72,6 +74,7 @@ var slideshow = module.exports = {
   },
   
   initTimer: function(){
+    clearInterval(slideshow.timerInt);
     slideshow.timerInt = setInterval(slideshow.nextBlock, 4000);
   },
   
@@ -80,6 +83,12 @@ var slideshow = module.exports = {
     clearInterval(slideshow.timerInt);
     clearTimeout(slideshow.timerTimeout);
     slideshow.timerTimeout = setTimeout(slideshow.initTimer, 8000);
+  },
+  
+  clearTimer: function(){
+    console.log('clearTimer');
+    clearInterval(slideshow.timerInt);
+    clearTimeout(slideshow.timerTimeout);
   },
   
   initMobileVideo: function(){
@@ -144,6 +153,13 @@ var slideshow = module.exports = {
       slideshow.unsetBackgrounds();
       slideshow.destroyControls();
       slideshow.unsetCaptions();
+      
+      $('.video-block').each(function(){
+        var vidID = $(this).find('video').attr('id');
+        var player = videojs(vidID);
+        player.currentTime(0);
+        player.play();
+      });
     
       if(slideshow.isSlick) {
         $('.project-images .inner').slick('setPosition');
@@ -194,12 +210,12 @@ var slideshow = module.exports = {
   },
   
   prevClick: function(){
-    slideshow.pauseTimer();
+    //slideshow.pauseTimer();
     slideshow.prevBlock();
   },
   
   nextClick: function(){
-    slideshow.pauseTimer();
+    //slideshow.pauseTimer();
     slideshow.nextBlock();
   },
   
@@ -219,6 +235,30 @@ var slideshow = module.exports = {
     $(slideshow.blocks[slideshow.currBlock]).addClass('active');
     
     slideshow.switchTextColor();
+    
+    $('.video-block').each(function(){
+      var vidID = $(this).find('video').attr('id');
+      var player = videojs(vidID);
+      player.currentTime(0);
+      player.pause();
+    });
+    
+    if($(slideshow.blocks[slideshow.currBlock]).hasClass('video-block')) {
+      //$(slideshow.blocks[slideshow.currBlock]).find('video').currentTime = 0;
+      //console.log($(slideshow.blocks[slideshow.currBlock]).find('video').attr('id'))
+      var vidID = $(slideshow.blocks[slideshow.currBlock]).find('video').attr('id');
+      
+      var player = videojs(vidID);
+      player.currentTime(0.1);
+      player.play();
+      console.log(player);
+      
+      slideshow.clearTimer();
+    }
+    
+    if(!$(slideshow.blocks[slideshow.currBlock]).hasClass('video-block')) {
+      slideshow.initTimer();
+    }
   },
   
   switchTextColor: function(){

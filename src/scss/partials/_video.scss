@@ -41,3 +41,54 @@
     }
   }
 }
+
+.video-js {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
+.video-js .vjs-tech {
+  position: relative !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+@keyframes vjs-spinner-fade {
+  0% {
+    border-top-color: white;  }
+  20% {
+    border-top-color: white;  }
+  35% {
+    border-top-color: white; }
+  60% {
+    border-top-color: white;  }
+  100% {
+    border-top-color: white;  } }
+
+@-webkit-keyframes vjs-spinner-fade {
+  0% {
+    border-top-color: white;  }
+  20% {
+    border-top-color: white;  }
+  35% {
+    border-top-color: white; }
+  60% {
+    border-top-color: white;  }
+  100% {
+    border-top-color: white;  } }
+
+
+
+.vjs-loading-spinner {
+  border:6px solid rgba(255, 255, 255, 0) !important;
+  
+  &:after, &:before {
+    border:6px solid rgba(255, 255, 255, 0) !important;
+    
+  }
+  
+  &:after {
+    display:none;
+  }
+}

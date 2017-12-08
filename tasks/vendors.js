@@ -10,7 +10,8 @@ var vendorScripts = [
   "./node_modules/jquery-mousewheel/jquery.mousewheel.js",
   "./node_modules/vanilla-lazyload/dist/lazyload.min.js",
   "./node_modules/slick-carousel/slick/slick.min.js",
-  "./node_modules/hypher/dist/jquery.hypher.js"
+  "./node_modules/hypher/dist/jquery.hypher.js",
+  "./node_modules/videojs-contrib-hls-s1/dist/videojs-contrib-hls.min.js"
 ];
 
 

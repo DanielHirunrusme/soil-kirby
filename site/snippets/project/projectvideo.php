@@ -3,7 +3,7 @@
 
 <?php if(!$data->video()->empty()): ?>
   
-  <div data-text-color="<?= $data->video_caption_color() ?>"  data-fit-browser="<?php echo $data->video_fit_browser() ?>" class="project-block <?php if(isset($index)):?> <?php if($index == 0): ?>first active<?php endif; ?><?php endif; ?>">
+  <div data-text-color="<?= $data->video_caption_color() ?>"  data-fit-browser="<?php echo $data->video_fit_browser() ?>" class="project-block video-block <?php if(isset($index)):?> <?php if($index == 0): ?>first active<?php endif; ?><?php endif; ?>">
 
     <?php $vimeoID = $data->video()->text(); ?>
     

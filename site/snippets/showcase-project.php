@@ -85,7 +85,7 @@
 <?php endif ?>
 
 <?php else: ?>
-    <div data-text-color="<?= $project->featured_text_color() ?>" data-fit-browser="<?php echo $project->featured_image_size() ?>" class="project-block <?php if(isset($index)):?> <?php if($index == 0): ?>active first<?php endif; ?><?php endif; ?>" >
+    <div data-text-color="<?= $project->featured_text_color() ?>" data-fit-browser="<?php echo $project->featured_image_size() ?>" class="project-block video-block <?php if(isset($index)):?> <?php if($index == 0): ?>active first<?php endif; ?><?php endif; ?>" >
       
       <div class="block-holder">
       <?php

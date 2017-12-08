@@ -59,10 +59,15 @@ function video_player($options, $id)
         data-poster="<?= $poster ?>"
         data-ratio="<?= $ratio ?>"
         style="background:url(<?= $poster ?>) no-repeat center center cover">
-      <video class="video-js" poster="<?= $poster ?>" autoplay <?php if(!$sounds): ?>muted<?php endif; ?> preload loop>
+      <video id="video-<?= $id ?>" class="video-js" poster="<?= $poster ?>" autoplay <?php if(!$sounds): ?>muted<?php endif; ?> preload="none" loop>
         <?php foreach ($sources as $source): ?>
-          <?php if ($source['quality'] !== 'hls'): ?>
-            <source data-src="<?= $source['link'] ?>" type='video/mp4'>
+          <?php if ($source['quality'] == 'hd'): ?>
+            <source src="<?= $source['link'] ?>" type='video/mp4'>
+          <?php endif ?>
+        <?php endforeach ?>
+        <?php foreach ($sources as $source): ?>
+          <?php if ($source['quality'] !== 'hls' && $source['quality'] !== 'hd'): ?>
+            <source src="<?= $source['link'] ?>" type='video/mp4'>
           <?php endif ?>
         <?php endforeach ?>
       </video>
