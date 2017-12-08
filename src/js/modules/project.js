@@ -54,6 +54,8 @@ module.exports = function( el ) {
 	}
   
   function projectScroll(){
+    if($('html').hasClass('touch')) return true;
+    
     if($('body').hasClass('overview'))
       scrollPos = $(window).scrollTop();
     
