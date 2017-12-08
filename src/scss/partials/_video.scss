@@ -94,7 +94,8 @@
 
 .vjs-poster {
   background:$c-white;
-  display:none;
+  //display:none;
+  position:relative !important;
 }
 
 .video-js .vjs-tech {
