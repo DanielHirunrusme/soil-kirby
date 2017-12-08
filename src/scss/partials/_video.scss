@@ -9,6 +9,12 @@
   
   video {
     background:$c-white;
+    
+    .single-slideshow & {
+      @include at-mobile {
+        display:none;
+      }
+    }
   }
 }
 
