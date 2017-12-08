@@ -54,6 +54,8 @@ module.exports = function( el ) {
 	}
   
   function projectScroll(){
+    if($('html').hasClass('touch')) return true;
+    
     if($('body').hasClass('overview'))
       scrollPos = $(window).scrollTop();
     
@@ -196,7 +198,7 @@ module.exports = function( el ) {
     ot = $('.content-inner').position().top;
     inner_padding = $('.related .inner').outerWidth() - $('.related .inner').width();
     
-    if(!$('body').hasClass('slideshow') && !$('html').hasClass('slideshow')){
+    if(!$('body').hasClass('slideshow') && !$('html').hasClass('slideshow') && !$('html').hasClass('touch')){
       projectScroll();
     }
     
