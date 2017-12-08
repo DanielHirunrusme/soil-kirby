@@ -68,9 +68,13 @@
     background:white;
     height: auto !important;
     
-    @include at-mobile {
-      height:100% !important;
+    .slideshow &, .overview & {
+      @include at-mobile {
+        height:100% !important;
+      }
     }
+    
+    
     
     .single-slideshow & {
       height: 100% !important;
@@ -86,8 +90,10 @@
   width: 100% !important;
   height: auto !important;
   
-  @include at-mobile {
-    height:100% !important;
+  .slideshow &, .overview & {
+    @include at-mobile {
+      height:100% !important;
+    }
   }
 }
 

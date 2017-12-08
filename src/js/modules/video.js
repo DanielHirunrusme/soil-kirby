@@ -99,7 +99,7 @@ module.exports = function( el ) {
     });
     
     player.on('pause', function(){
-      if(!$('body').hasClass('slideshow'))
+      if(!$('body').hasClass('slideshow') && !$('html').hasClass('touch'))
       player.play();
     });
     
