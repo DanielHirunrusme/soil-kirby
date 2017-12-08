@@ -47,6 +47,12 @@
     display:block;
   }
   
+  .projects & {
+    @include at-mobile {
+      display:none;
+    }
+  }
+  
   .single-slideshow &, .slideshow & {
     @include at-mobile {
       display:block;
