@@ -196,7 +196,7 @@ module.exports = function( el ) {
     ot = $('.content-inner').position().top;
     inner_padding = $('.related .inner').outerWidth() - $('.related .inner').width();
     
-    if(!$('body').hasClass('slideshow') && !$('html').hasClass('slideshow')){
+    if(!$('body').hasClass('slideshow') && !$('html').hasClass('slideshow') && !$('html').hasClass('touch')){
       projectScroll();
     }
     

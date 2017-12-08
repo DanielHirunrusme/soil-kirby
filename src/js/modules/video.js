@@ -44,7 +44,7 @@ module.exports = function( el ) {
     
     var options = {};
     //videojs.options.autoplay = true;
-    options.muted = true;
+    options.muted = !$('body').hasClass('single-slideshow') ? true : false;
     options.autoplay = true;
     options.controls = false;
     options.hls = { withCredentials: true }

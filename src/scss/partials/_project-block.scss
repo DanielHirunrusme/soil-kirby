@@ -97,6 +97,10 @@
     .slideshow & {
       width:100%;
       float:none;
+      
+      @include at-mobile {
+       pointer-events:none;
+      }
     }
     
     @include at-mobile {
