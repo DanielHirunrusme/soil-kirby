@@ -77,6 +77,7 @@
     .slideshow &, .overview & {
       @include at-mobile {
         height:100% !important;
+        position:absolute;
       }
     }
     
@@ -89,6 +90,10 @@
         display:none;
       }
     }
+}
+
+.vjs-poster {
+  background:$c-white;
 }
 
 .video-js .vjs-tech {
