@@ -154,11 +154,24 @@
   .white-text & {
     border-bottom: .1em solid #fff;
     
+    @include at-mobile {
+      border-bottom:.05em solid #fff;
+    }
+    
     &:hover {
       border-bottom: .1em solid #fff;
       
+      @include at-mobile {
+        border-bottom:.05em solid #fff;
+      }
+    
       &:after {
         border-bottom: .1em solid #fff;
+        
+        @include at-mobile {
+          border-bottom:.05em solid #fff;
+        }
+    
       }
     }
     
