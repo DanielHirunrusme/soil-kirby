@@ -168,6 +168,14 @@ c::set('routes', array(
     }
   ),
   array(
+    'pattern' => 'projects/',
+    'action' => function () {
+      checkMobile();
+      go('projects/all');
+     
+    }
+  ),
+  array(
     'pattern' => 'projects/(:any)',
     'action'  => function($uid) {
       checkMobile();
