@@ -74,6 +74,11 @@
     background:white;
     height: auto !important;
     
+    @include at-mobile {
+      float:left;
+      clear:left;
+    }
+    
     .slideshow &, .overview & {
       @include at-mobile {
         height:100% !important;
