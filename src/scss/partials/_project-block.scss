@@ -215,7 +215,9 @@
         background-size:cover;
         background-position:center center;
         
-        
+        video {
+          position:fixed !important;
+        }
         
         @include at-mobile {
           position:relative;
