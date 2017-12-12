@@ -1,8 +1,8 @@
-Title: SO — IL
+Title: SO – IL
 
 ----
 
-Author: Daniel Hirunrusme
+Author: 
 
 ----
 
@@ -14,4 +14,4 @@ Copyright:
 
 ----
 
-Email: daniel@halfhalf.us
+Email: office@so-il.org
