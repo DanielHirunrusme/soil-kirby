@@ -1,5 +1,5 @@
 <section class="imageBanner">
-   <?php if ($data->image()->isNotEmpty()): ?>
+   <?php if ($data->image()->isNotEmpty() && $page->image($data->image()) != null): ?>
   <div style="float:left;">
   <img src="<?= $page->image($data->image())->url() ?>" width="100">
   </div>
