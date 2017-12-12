@@ -15,6 +15,14 @@
   
   }
   
+  .wordmark {
+    line-height:0;
+    
+    @include at-mobile {
+      line-height:$line-height;
+    }
+  }
+  
   
   .close {
     display:none;

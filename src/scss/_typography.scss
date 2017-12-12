@@ -28,6 +28,24 @@ a {
   }
 }
 
+p, article {
+  
+  a {
+    
+    &:visited, &:hover, &.active {
+      
+      &:after {
+        
+        bottom:-.04em;
+        
+      }
+      
+    }
+    
+  }
+  
+}
+
 li {
   a {
     line-height: .96296em;
