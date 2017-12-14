@@ -19,6 +19,7 @@ c::set('license', 'put your license key here');
 c::set('debug', true);
 c::set('cache', false);
 c::set('thumbs.memory', '512M');
+c::set('panel.install', true);
 
 c::set('field.wysiwyg.dragdrop.kirby', true);
 c::set('field.wysiwyg.dragdrop.medium', true);
