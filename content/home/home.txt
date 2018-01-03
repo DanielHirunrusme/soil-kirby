@@ -10,4 +10,4 @@ Text:
 
 ----
 
-Featured-projects: frieze-art-fair, logan, kukje-galleryk3, bad-thoughts, breathe-mini-living-salone-del-mobile-2017, versace-showroom, l-air-pour-l-air
+Featured-projects: logan, frieze-art-fair, kukje-galleryk3, bad-thoughts, breathe-mini-living-salone-del-mobile-2017, versace-showroom, l-air-pour-l-air

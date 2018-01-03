@@ -17,9 +17,8 @@ for more information: http://getkirby.com/license
 
 c::set('license', 'put your license key here');
 c::set('debug', true);
-c::set('cache', false);
+c::set('cache', true);
 c::set('thumbs.memory', '512M');
-c::set('panel.install', true);
 
 c::set('field.wysiwyg.dragdrop.kirby', true);
 c::set('field.wysiwyg.dragdrop.medium', true);
@@ -74,28 +73,6 @@ function makeFootnote($content) {
 
 thumb::$defaults['blurpx'] = 100;
 
-// Shrink large images on upload
-/*
-kirby()->hook('panel.file.upload', 'shrinkImage');
-kirby()->hook('panel.file.replace', 'shrinkImage');
-function shrinkImage($file, $maxDimension = 1600) {
-  try {
-    if ($file->type() == 'image' and ($file->width() > $maxDimension or $file->height() > $maxDimension)) {
-      
-      // Get original file path
-      $originalPath = $file->dir().'/'.$file->filename();
-      // Create a thumb and get its path
-      $resized = $file->resize($maxDimension,$maxDimension);
-      $resizedPath = $resized->dir().'/'.$resized->filename();
-      // Replace the original file with the resized one
-      copy($resizedPath, $originalPath);
-      unlink($resizedPath);
-    }
-  } catch(Exception $e) {
-    return response::error($e->getMessage());
-  }
-}
-*/
 
 
 function slugify($text)
