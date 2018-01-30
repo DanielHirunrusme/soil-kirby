@@ -118,7 +118,7 @@ module.exports = function( el ) {
       var dur = player.duration();
       
       //looped
-      if (ct >= 0.1) {
+      if (ct == dur) {
         if(!looped) {
           looped = true;
           player.trigger('ended');
