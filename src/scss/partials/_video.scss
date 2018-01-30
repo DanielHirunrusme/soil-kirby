@@ -78,7 +78,7 @@
     height: auto !important;
     
     @include at-mobile {
-      float:left;
+      //float:left;
       clear:left;
       background:transparent;
     }
