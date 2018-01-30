@@ -4,7 +4,10 @@
   
   img {
     display:none;
-  
+    
+    @include at-mobile {
+     display:block; 
+    }
   }
   
   video {
