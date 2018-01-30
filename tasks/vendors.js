@@ -7,6 +7,8 @@ var vendorScripts = [
 
 
 var vendorScripts = [
+  "./vendors/video.js",
+  "./vendors/video-ie8.js",
   "./node_modules/jquery-mousewheel/jquery.mousewheel.js",
   "./node_modules/vanilla-lazyload/dist/lazyload.min.js",
   "./node_modules/slick-carousel/slick/slick.min.js",

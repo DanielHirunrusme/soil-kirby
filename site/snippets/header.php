@@ -9,10 +9,10 @@
   <title><?= html_entity_decode($site->title()->html()) ?> | <?= $page->title()->html() ?></title>
   <meta name="description" content="<?= $site->description()->html() ?>">
   
-  <link href="http://vjs.zencdn.net/6.4.0/video-js.css" rel="stylesheet">
+  <!--<link href="http://vjs.zencdn.net/6.4.0/video-js.css" rel="stylesheet">-->
 
   <!-- If you'd like to support IE8 -->
-  <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+  <!--<script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>-->
   
   <!--favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="<?= $site->url() ?>/assets/images/apple-touch-icon.png">

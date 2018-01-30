@@ -117,8 +117,10 @@ module.exports = function( el ) {
       var ct = player.currentTime();
       var dur = player.duration();
       
+      console.log(ct);
+      console.log(dur);
       //looped
-      if (ct == dur) {
+      if (ct >= dur - .5) {
         if(!looped) {
           looped = true;
           player.trigger('ended');
