@@ -71,7 +71,7 @@ function video_player($options, $id)
           <?php endif ?>
         <?php endforeach ?>
       </video>
-      <img class="for-mobile for-flash-video video-poster" data-src="<?= $poster ?>">
+      <img class="for-mobile for-flash-video video-poster" src="<?= $poster ?>">
       <div class="for-mobile play-button"></div>
     </div>
   </div>

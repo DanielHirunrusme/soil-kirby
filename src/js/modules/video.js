@@ -70,8 +70,18 @@ module.exports = function( el ) {
     var player = window.player = videojs(vidID, options);
     player.on('ready', function(){
       console.log('player ready');
-      player.play();
-      playing = true;
+      
+      
+      if (!$('body').hasClass('home')) {
+        player.play();
+        playing = true;
+      } else {
+        if ($el.closest('.project-block').hasClass('active')) {
+          player.play();
+          playing = true;
+        }
+        
+      }
       
       /*
       player.on('timeupdate', function(e){
@@ -108,7 +118,7 @@ module.exports = function( el ) {
       var dur = player.duration();
       
       //looped
-      if (ct == 0) {
+      if (ct >= 0.1) {
         if(!looped) {
           looped = true;
           player.trigger('ended');

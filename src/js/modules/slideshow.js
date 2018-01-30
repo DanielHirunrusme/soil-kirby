@@ -226,11 +226,13 @@ var slideshow = module.exports = {
   },
   
   nextBlock: function(){
+    console.log('next block');
     slideshow.currBlock = slideshow.currBlock < slideshow.totalBlocks ? slideshow.currBlock+1 : 0;
     slideshow.switchBlock();
   },
   
   switchBlock: function(){
+    console.log('switch block')
     $(slideshow.blocks).removeClass('active first');
     $(slideshow.blocks[slideshow.currBlock]).addClass('active');
     

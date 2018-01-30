@@ -80,6 +80,12 @@
       background:transparent;
     }
     
+    .projects & {
+      @include at-mobile {
+        display:none;
+      }
+    }
+    
     .slideshow &, .overview & {
       @include at-mobile {
         height:100% !important;
