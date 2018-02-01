@@ -151,6 +151,7 @@ var slideshow = module.exports = {
       $('.slick-slider').addClass('is-swiping');
     }).on('afterChange', function(){
       $('.slick-slider').removeClass('is-swiping');
+      //slideshow.setCaptions();
     })
     
     
