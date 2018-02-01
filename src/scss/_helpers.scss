@@ -130,7 +130,9 @@
     display: block;
     position: absolute;
     bottom: -.15em;
-    border-bottom: .14em solid #000;
+    //border-bottom: .14em solid #000;
+    border-bottom:3px solid #000;
+    transform: scaleY(1.25);
     width: 100%;
     left:0;
     
@@ -138,15 +140,20 @@
       bottom: 0;
     }
     
+    @include at-mobile {
+      transform: scaleY(1.15);
+    }
+    
     .white-text & {
-      border-bottom: .1em solid #fff;
+      border-color: #fff;
+      transform: scaleY(1.15);
       
       &:hover {
-        border-bottom: .1em solid #fff;
+        border-color: #fff;
       }
       
       *:hover & {
-        border-bottom: .1em solid #fff;
+        border-color: #fff;
       }
     }
   }
@@ -189,9 +196,15 @@
     display: block;
     position: absolute;
     padding-bottom: .02em;
-    border-bottom: .14em solid #fff;
+    //border-bottom: .14em solid #fff;
+    border-bottom:3px solid #fff;
+    transform: scaleY(1.25);
     width: 100%;
     
+  }
+  
+  @include at-mobile {
+    transform: scaleY(1.15);
   }
 }
 
