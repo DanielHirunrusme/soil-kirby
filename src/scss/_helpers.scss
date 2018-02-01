@@ -305,7 +305,7 @@
 }
 
 @mixin univers-p {
-  font-size: 22px;
+  font-size: $font-size;
   line-height: 1.18em;
   letter-spacing:.02em;
   
@@ -326,12 +326,12 @@
   }
   
   .wordmark, span {
-    font-size: 22px;
+    font-size: $font-size;
     line-height: 1.18em;
     letter-spacing:.02em;
     
     @include at-mobile {
-      font-size:16px;
+      font-size: $font-size * 0.75;
       line-height: 1.25em;
       -webkit-hyphens: auto;
         -moz-hyphens: auto;
@@ -356,12 +356,12 @@
   
   @include at-mobile {
     
-    font-size:16px;
+    font-size: $font-size * 0.75;
     line-height: 1.25em;
     
     a {
       font-style:italic;
-      font-size:16px;
+      font-size: $font-size * 0.75;
       line-height: 1.25em;
     
       &:hover {

@@ -83,6 +83,11 @@ module.exports = function( el ) {
         
       }
       
+      if($('html').hasClass('touch')) {
+        player.pause();
+        playing = false;
+      }
+      
       /*
       player.on('timeupdate', function(e){
           var duration = player.duration();

@@ -405,6 +405,27 @@
 }
 
 
+.default, .blog {
+  
+  .project-block {
+    
+    
+    
+    .caption {
+      @include at-mobile {
+        width:100%;
+      }
+      
+      .caption-inner {
+        @include at-mobile {
+          margin-left:0 !important;
+        }
+      }
+    }
+  }
+
+}
+
 
 .single-slideshow {
   .caption {

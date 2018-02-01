@@ -123,6 +123,14 @@ var slideshow = module.exports = {
       slideshow.switchTextColor();
     }
     
+    $('.project-images .inner').on('init', function(event, slick){
+      $('.slick-arrow').on('click', function(){
+        $('.slick-slider').addClass('is-swiping');
+          
+      })
+      
+    });
+    
     $('.project-images .inner').slick({
       dots: false,
       arrows: true,
@@ -132,11 +140,20 @@ var slideshow = module.exports = {
       mobileFirst: true
     }).on('beforeChange', function(event, slick, currentSlide, nextSlide){
       slideshow.currBlock = nextSlide;
+      console.log('sliding')
+     
       if (!$('body').hasClass('overview')) {
         slideshow.switchTextColor();
       }
       
-    });
+    }).on('touchmove.slick', function(){
+      console.log('touchmove.slick')
+      $('.slick-slider').addClass('is-swiping');
+    }).on('afterChange', function(){
+      $('.slick-slider').removeClass('is-swiping');
+    })
+    
+    
     
     slideshow.setCaptions();
     
