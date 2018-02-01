@@ -99,7 +99,7 @@
       float:none;
       
       @include at-mobile {
-       //pointer-events:none;
+       pointer-events:none;
       }
     }
     
