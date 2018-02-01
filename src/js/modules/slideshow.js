@@ -249,6 +249,9 @@ var slideshow = module.exports = {
   },
   
   switchBlock: function(){
+    if($('html').hasClass('touch')) {
+      return true;
+    }
     console.log('switch block')
     $(slideshow.blocks).removeClass('active first');
     $(slideshow.blocks[slideshow.currBlock]).addClass('active');
