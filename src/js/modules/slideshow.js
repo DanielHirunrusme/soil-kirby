@@ -48,7 +48,7 @@ var slideshow = module.exports = {
     $('.project-images .container').removeClass('fixed top').css('width', '');
     
     
-    
+    slideshow.switchTextColor();
     slideshow.setBackgrounds();
     
     if(!$('body').hasClass('single-slideshow')) {
@@ -389,6 +389,7 @@ var slideshow = module.exports = {
   },
   
   setCaptions: function(){
+    console.log('setCaptions')
     var ellipsis = Ellipsis({
       ellipsis: '[…]', //default ellipsis value
       debounce: 0, //if you want to chill out your memory usage on resizing

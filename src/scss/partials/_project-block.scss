@@ -99,7 +99,7 @@
       float:none;
       
       @include at-mobile {
-       pointer-events:none;
+       //pointer-events:none;
       }
     }
     
@@ -143,6 +143,12 @@
         @include at-mobile {
           margin-top:.5em;
           display:inline-block;
+        }
+        
+        .slick-slideshow & {
+          @include at-mobile {
+            display:initial;
+          }
         }
         
         .project & {
